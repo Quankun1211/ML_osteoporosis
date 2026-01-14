@@ -1,0 +1,1959 @@
+Age,Gender,Family History,Body Weight,Physical Activity,Smoking,Alcohol Consumption,Medical Conditions,Medications,Prior Fractures,Osteoporosis
+,Female,Yes,Underweight,Active,No,Moderate,Rheumatoid Arthritis,,No,1
+,Male,Yes,Normal,Active,Yes,,Hyperthyroidism,Corticosteroids,No,1
+,Male,Yes,Normal,Sedentary,No,Moderate,Rheumatoid Arthritis,,No,1
+,Female,No,Normal,Sedentary,No,Moderate,Rheumatoid Arthritis,,No,0
+,Female,Yes,Underweight,Active,Yes,,Rheumatoid Arthritis,,No,0
+,Male,No,Underweight,,Yes,,Rheumatoid Arthritis,Corticosteroids,No,1
+,Male,No,Normal,Active,No,,,Corticosteroids,No,1
+,Female,No,Normal,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,No,0
+,Female,No,Normal,Active,No,,,Corticosteroids,Yes,1
+,Female,No,Underweight,Sedentary,No,,,,Yes,1
+,Female,No,Normal,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,1
+,Female,No,Normal,Sedentary,Yes,,Hyperthyroidism,,No,0
+,Male,No,Underweight,Active,Yes,Moderate,Hyperthyroidism,,No,0
+,Male,Yes,Underweight,Sedentary,Yes,,Rheumatoid Arthritis,,No,0
+,Female,No,Normal,Sedentary,No,Moderate,,Corticosteroids,No,1
+,Female,Yes,Normal,Active,Yes,,Rheumatoid Arthritis,,Yes,1
+,Male,Yes,Normal,Sedentary,No,,Hyperthyroidism,,No,0
+,Female,Yes,Normal,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes,1
+,Female,Yes,Underweight,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No,0
+,Female,No,Normal,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,No,1
+,Male,No,Normal,Active,Yes,,,,No,1
+,Male,Yes,Normal,Sedentary,Yes,,,,Yes,0
+,Female,Yes,Underweight,Active,No,Moderate,Hyperthyroidism,,Yes,1
+,Male,Yes,Underweight,Sedentary,Yes,,,Corticosteroids,Yes,1
+21,Male,No,Underweight,Sedentary,No,Moderate,,Corticosteroids,Yes,0
+34,Male,Yes,Underweight,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,No,0
+59,Female,No,Underweight,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,Yes,1
+70,Male,No,Underweight,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,No,1
+38,Female,Yes,Normal,Sedentary,No,,Hyperthyroidism,,Yes,0
+22,Male,Yes,Normal,Active,No,Moderate,Hyperthyroidism,,No,0
+29,Female,No,Normal,Active,No,Moderate,,Corticosteroids,Yes,0
+88,Female,No,Normal,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,No,1
+34,Female,Yes,Underweight,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No,0
+21,Female,Yes,Underweight,Sedentary,Yes,,Rheumatoid Arthritis,,Yes,0
+18,Male,Yes,Normal,Active,Yes,Moderate,Rheumatoid Arthritis,,No,0
+34,Female,Yes,Normal,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,1
+19,Female,Yes,Normal,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,No,0
+64,Male,Yes,Underweight,Sedentary,No,,Rheumatoid Arthritis,,No,1
+18,Male,No,Underweight,Active,No,Moderate,Hyperthyroidism,,Yes,0
+19,Female,No,Normal,Sedentary,Yes,,,,Yes,0
+29,Female,No,Normal,Active,No,Moderate,,,No,0
+33,Male,Yes,Underweight,Sedentary,No,Moderate,Hyperthyroidism,,No,1
+33,Female,No,Normal,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes,1
+41,Male,Yes,Underweight,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No,1
+21,Female,Yes,Normal,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes,1
+35,Male,Yes,Underweight,Sedentary,No,Moderate,,Corticosteroids,,0
+18,Female,No,Normal,Sedentary,No,,,,,0
+29,Male,No,Underweight,Sedentary,Yes,,Hyperthyroidism,,No,0
+46,Femal,Yes,Normal,Sedentary,Yes,,Rheumatoid Arthritis,,Yes,1
+34,Male,No,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+34,Male,No,Normal,Sedentary,No,Moderate,,,Yes,0
+18,Female,No,Underweight,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes,1
+62,Female,No,Normal,Active,No,Moderate,,Corticosteroids,No,1
+34,,Yes,Normal,Active,Yes,,Hyperthyroidism,,No,0
+29,Female,No,Normal,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,0
+35,Male,Yes,Underweight,Active,No,,Rheumatoid Arthritis,Corticosteroids,No,1
+21,Male,No,Normal,Sedentary,No,Moderate,,Corticosteroids,No,0
+50,Male,No,Underweight,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No,1
+26,Male,No,Normal,Active,Yes,,Rheumatoid Arthritis,,Yes,0
+25,Male,Yes,Normal,Sedentary,Yes,,Hyperthyroidism,,No,1
+25,Female,No,Underweight,Sedentary,Yes,,,Corticosteroids,Yes,0
+23,Male,Yes,Normal,Sedentary,No,,,,Yes,0
+22,Male,No,Normal,Sedentary,Yes,,,,No,0
+66,Male,Yes,Normal,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes,1
+33,Male,Yes,Underweight,Sedentary,No,Moderate,Hyperthyroidism,,Yes,1
+20,Female,No,Normal,Sedentary,Yes,,,,Yes,1
+75,Male,No,Underweight,Active,Yes,,Hyperthyroidism,Corticosteroids,No,1
+21,Male,Yes,Normal,Sedentary,No,Moderate,,Corticosteroids,No,0
+27,Female,No,Normal,Sedentary,No,,,Corticosteroids,Yes,1
+79,Male,Yes,Underweight,Active,Yes,Moderate,,,Yes,1
+23,Male,No,Normal,Active,Yes,Moderate,,Corticosteroids,Yes,0
+21,Male,Yes,Normal,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No,1
+26,Female,No,Normal,Sedentary,No,,Rheumatoid Arthritis,,No,0
+34,Male,No,Normal,Sedentary,No,,Rheumatoid Arthritis,,No,0
+22,Male,Yes,Normal,Sedentary,Yes,,,Corticosteroids,Yes,0
+18,Female,Yes,Normal,Active,Yes,Moderate,,Corticosteroids,Yes,0
+22,Female,No,Normal,Active,Yes,,,Corticosteroids,No,0
+36,Female,Yes,Underweight,Sedentary,Yes,Moderate,,,Yes,1
+21,Male,No,Underweight,Sedentary,No,,Hyperthyroidism,,No,1
+65,Female,Yes,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No,1
+18,Female,No,Normal,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes,1
+35,Male,No,Underweight,Active,Yes,,,Corticosteroids,No,0
+23,Female,No,Normal,Sedentary,No,,,,No,0
+61,Female,Yes,Underweight,Sedentary,Yes,,Rheumatoid Arthritis,,Yes,1
+68,Female,Yes,Underweight,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,No,1
+27,Male,No,Underweight,Active,Yes,Moderate,,,No,1
+34,Female,No,Normal,Active,No,Moderate,Rheumatoid Arthritis,,No,0
+20,Female,Yes,Normal,Active,No,Moderate,Hyperthyroidism,,No,1
+20,Male,No,Underweight,Sedentary,No,Moderate,,,No,0
+36,Male,Yes,Underweight,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No,1
+25,Female,No,Underweight,Sedentary,Yes,,Hyperthyroidism,,Yes,0
+42,Male,No,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+42,Male,Yes,Normal,Sedentary,No,Moderate,,,Yes,1
+30,Female,Yes,Underweight,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes,1
+23,Male,No,Underweight,Sedentary,No,,Hyperthyroidism,,No,0
+19,Male,No,Normal,Active,Yes,,Rheumatoid Arthritis,,No,0
+29,Male,No,Underweight,Sedentary,Yes,Moderate,Hyperthyroidism,,Yes,0
+32,Male,No,Underweight,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No,1
+58,Male,Yes,Normal,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes,1
+71,Male,Yes,Underweight,Active,Yes,Moderate,,,No,1
+81,Female,No,Underweight,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,Yes,1
+18,Female,No,Underweight,Active,No,,Hyperthyroidism,Corticosteroids,Yes,1
+72,Male,Yes,Normal,Active,Yes,,Rheumatoid Arthritis,,Yes,1
+54,Male,Yes,Underweight,Active,No,,Hyperthyroidism,,Yes,1
+73,Male,No,Underweight,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes,1
+38,Male,Yes,Normal,Active,Yes,,Hyperthyroidism,,No,0
+74,Male,Yes,Normal,Active,No,Moderate,Hyperthyroidism,Corticosteroids,Yes,1
+29,Female,Yes,Underweight,Active,Yes,,,Corticosteroids,No,0
+34,Female,Yes,Underweight,Sedentary,Yes,,,,No,0
+77,Male,No,Underweight,Sedentary,No,,Hyperthyroidism,Corticosteroids,No,1
+42,Female,No,Normal,Sedentary,No,,Hyperthyroidism,Corticosteroids,Yes,1
+21,Female,No,Underweight,Sedentary,No,,,,Yes,0
+26,Male,No,Underweight,Active,No,,,,Yes,0
+21,Female,Yes,Underweight,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,0
+20,Female,No,Underweight,Active,No,,,,No,0
+71,Female,No,Underweight,,Yes,Moderate,Hyperthyroidism,,No,1
+34,Male,Yes,Normal,Sedentary,Yes,Moderate,,Corticosteroids,Yes,0
+38,Male,Yes,Underweight,Active,No,,,,No,0
+20,Female,Yes,Normal,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,0
+76,Male,No,Underweight,Sedentary,No,,,,Yes,1
+34,Female,No,Underweight,Active,No,Moderate,Hyperthyroidism,Corticosteroids,Yes,1
+46,Female,No,Normal,Sedentary,No,Moderate,Rheumatoid Arthritis,,Yes,1
+35,Male,No,Normal,Sedentary,No,,,,No,0
+29,Male,Yes,Normal,Active,No,,,Corticosteroids,No,0
+29,Female,No,Normal,Active,Yes,,,Corticosteroids,Yes,0
+19,Male,Yes,Underweight,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes,0
+34,Female,No,Normal,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,Yes,0
+88,Female,No,Normal,Active,Yes,,Hyperthyroidism,,No,1
+29,Male,Yes,,Sedentary,Yes,,Hyperthyroidism,,No,0
+21,Female,No,Normal,Active,Yes,,Hyperthyroidism,,No,0
+77,Male,Yes,Normal,Sedentary,No,Moderate,Hyperthyroidism,,No,1
+18,Female,No,Underweight,Active,Yes,,,Corticosteroids,Yes,0
+25,Male,Yes,Normal,Active,No,,,,Yes,0
+21,Male,Yes,Normal,Sedentary,No,Moderate,,Corticosteroids,No,0
+38,Female,No,Underweight,Active,Yes,Moderate,Hyperthyroidism,,No,0
+44,Male,No,Underweight,Active,Yes,,Hyperthyroidism,,Yes,1
+23,Female,Yes,Underweight,Sedentary,No,,Rheumatoid Arthritis,,Yes,0
+25,Female,No,Underweight,Active,Yes,,,Corticosteroids,No,0
+19,Female,No,Normal,Active,Yes,,,,No,0
+34,Female,Yes,Underweight,Sedentary,No,Moderate,,Corticosteroids,No,0
+23,Male,Yes,Normal,Active,No,,,,No,1
+80,Male,Yes,Normal,Active,No,Moderate,Hyperthyroidism,,Yes,1
+22,Male,No,Normal,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes,0
+35,Male,No,Underweight,Sedentary,Yes,Moderate,Hyperthyroidism,,No,0
+32,Male,No,Normal,Active,No,Moderate,Rheumatoid Arthritis,,Yes,1
+83,Male,Yes,Underweight,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes,1
+35,Male,Yes,Normal,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes,0
+50,Female,Yes,Normal,Active,No,,Hyperthyroidism,,Yes,1
+84,Female,Yes,Normal,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,Yes,1
+19,Male,No,Normal,Sedentary,No,Moderate,Hyperthyroidism,,Yes,0
+88,Male,No,Normal,Sedentary,No,,,,No,1
+18,Female,No,Underweight,Active,No,Moderate,Hyperthyroidism,,Yes,0
+25,Male,Yes,Underweight,Sedentary,Yes,,,,No,0
+34,Male,No,Underweight,Active,No,,Rheumatoid Arthritis,Corticosteroids,No,0
+21,Male,No,Normal,Active,Yes,Moderate,,,Yes,0
+19,Male,No,Underweight,Sedentary,No,,Rheumatoid Arthritis,,Yes,0
+52,Female,No,Normal,Sedentary,Yes,Moderate,,Corticosteroids,No,1
+25,Male,No,Normal,Sedentary,Yes,Moderate,,,,0
+22,Male,Yes,Underweight,Active,No,,Hyperthyroidism,Corticosteroids,No,0
+46,Female,No,Underweight,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,No,1
+25,Male,No,Underweight,Active,No,,Rheumatoid Arthritis,,Yes,0
+57,Female,Yes,Underweight,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,No,1
+44,Male,Yes,Underweight,Active,No,Moderate,Hyperthyroidism,,Yes,1
+43,Male,No,Underweight,Sedentary,No,,,Corticosteroids,No,1
+44,Female,Yes,Normal,Sedentary,No,Moderate,,,Yes,1
+22,Female,No,Underweight,Sedentary,No,Moderate,Hyperthyroidism,,No,1
+40,Female,Yes,Normal,Active,No,,Hyperthyroidism,,Yes,1
+19,Male,No,Normal,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes,0
+34,Male,No,Underweight,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,Yes,1
+25,Female,No,Normal,Sedentary,Yes,Moderate,Hyperthyroidism,,No,0
+22,Female,No,Normal,Active,Yes,,Hyperthyroidism,Corticosteroids,No,0
+20,Male,Yes,Underweight,Sedentary,No,Moderate,,Corticosteroids,No,1
+23,Femal,No,Normal,Active,Yes,,Hyperthyroidism,Corticosteroids,Yes,0
+20,Male,Yes,Normal,Active,Yes,,,Corticosteroids,Yes,0
+47,Male,Yes,,Sedentary,Yes,,Rheumatoid Arthritis,,No,1
+32,Male,Yes,Underweight,Active,No,,Rheumatoid Arthritis,Corticosteroids,No,1
+67,Male,Yes,Normal,Active,Yes,,,,No,1
+31,Female,No,Normal,Active,Yes,,Hyperthyroidism,,Yes,1
+21,Female,Yes,Normal,Active,Yes,Moderate,Rheumatoid Arthritis,,Yes,0
+18,Female,Yes,Underweight,Active,No,Moderate,Hyperthyroidism,Corticosteroids,No,0
+77,Female,Yes,Normal,Active,No,,,,Yes,1
+21,Female,Yes,Normal,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes,0
+42,Male,No,Normal,Active,No,Moderate,Hyperthyroidism,Corticosteroids,Yes,1
+20,Female,No,Normal,Sedentary,No,Moderate,,,Yes,1
+18,Female,Yes,Underweight,Active,No,Moderate,,,No,0
+74,Female,No,Normal,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,No,1
+24,Female,No,Normal,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes,1
+66,Female,No,Underweight,Sedentary,Yes,,,Corticosteroids,Yes,1
+18,Female,Yes,Normal,Active,No,Moderate,Hyperthyroidism,,Yes,0
+53,Female,Yes,Underweight,Active,No,Moderate,Hyperthyroidism,Corticosteroids,Yes,1
+21,Male,No,Normal,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,No,0
+54,female,Yes,Normal,Active,no,Moderate,Rheumatoid Arthritis,,No,1
+75,Female,No,Normal,Active,Yes,,Rheumatoid Arthritis,,Yes,1
+20,Male,Yes,Underweight,Sedentary,No,Moderate,,,Yes,0
+18,Female,Yes,Normal,Active,Yes,,,,No,0
+19,Female,Yes,Underweight,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes,0
+21,Female,No,Underweight,Sedentary,Yes,,Rheumatoid Arthritis,,Yes,0
+20,Female,No,Underweight,Sedentary,No,Moderate,Hyperthyroidism,,Yes,0
+19,Male,No,Underweight,Sedentary,No,Moderate,,,Yes,0
+44,female,No,,Active,yes,Moderate,Rheumatoid Arthritis,,Yes,1
+19,Female,Yes,Normal,Sedentary,No,,,,Yes,0
+90,Male,No,Normal,Sedentary,Yes,Moderate,Hyperthyroidism,,Yes,1
+42,Female,Yes,Underweight,Active,Yes,Moderate,Hyperthyroidism,,No,1
+23,Female,No,Underweight,Active,Yes,,Hyperthyroidism,,Yes,0
+28,Female,Yes,Normal,Active,Yes,Moderate,,Corticosteroids,,1
+69,Male,Yes,Normal,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+26,Male,No,Normal,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,No,0
+81,Female,No,Normal,Sedentary,No,,Hyperthyroidism,,No,1
+18,Male,No,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,,No,0
+18,Female,No,Normal,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,0
+35,Male,No,Underweight,Sedentary,No,,,,Yes,0
+23,Male,Yes,Underweight,Sedentary,No,,Hyperthyroidism,,Yes,1
+53,Male,Yes,Underweight,Active,No,Moderate,Hyperthyroidism,Corticosteroids,Yes,1
+26,Female,No,Normal,Active,No,Moderate,,,No,0
+71,Male,Yes,Underweight,Active,Yes,,,,Yes,1
+29,Female,No,Normal,Sedentary,No,Moderate,Rheumatoid Arthritis,,Yes,0
+19,Male,Yes,Normal,Sedentary,No,,,,No,0
+87,Male,No,Underweight,Sedentary,No,,Hyperthyroidism,,No,1
+34,Female,Yes,Underweight,Active,Yes,,,Corticosteroids,Yes,1
+42,Female,No,Underweight,Active,Yes,,Rheumatoid Arthritis,,No,1
+18,Female,Yes,Underweight,Active,Yes,Moderate,,Corticosteroids,Yes,0
+34,Male,Yes,Normal,Sedentary,No,,Rheumatoid Arthritis,,Yes,0
+73,Male,Yes,Normal,Sedentary,Yes,Moderate,Hyperthyroidism,,No,1
+35,Male,Yes,Underweight,Sedentary,Yes,,Rheumatoid Arthritis,,Yes,1
+88,Female,No,Normal,Active,No,Moderate,,,Yes,1
+19,Female,No,Underweight,Active,No,,,,Yes,0
+88,Male,No,Normal,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,No,1
+68,Male,No,Underweight,Sedentary,No,,,Corticosteroids,Yes,1
+52,Male,No,Underweight,Sedentary,No,Moderate,Hyperthyroidism,,No,1
+85,Male,Yes,Underweight,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,Yes,1
+19,Female,Yes,Normal,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,0
+67,Female,Yes,Normal,Active,No,Moderate,Rheumatoid Arthritis,,No,1
+88,Male,No,Normal,Active,No,,,Corticosteroids,Yes,1
+42,Female,Yes,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,,No,1
+50,Male,Yes,Normal,Active,Yes,Moderate,,,No,1
+76,Female,Yes,Normal,Active,No,,Hyperthyroidism,Corticosteroids,,1
+74,Female,No,Normal,Active,No,Moderate,,,No,1
+21,Female,No,Underweight,Active,No,Moderate,,,Yes,0
+35,Female,Yes,Underweight,Sedentary,Yes,,,,Yes,0
+32,Male,No,Normal,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+25,Male,Yes,Normal,Sedentary,No,Moderate,,,No,0
+52,Male,No,Underweight,Sedentary,Yes,,,Corticosteroids,No,1
+34,Female,Yes,Underweight,Sedentary,No,Moderate,Hyperthyroidism,,No,0
+64,Female,No,Normal,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,Yes,1
+20,Female,Yes,Normal,Sedentary,No,Moderate,Rheumatoid Arthritis,,Yes,0
+22,Female,Yes,Normal,Sedentary,No,,Rheumatoid Arthritis,,No,0
+21,Female,Yes,Underweight,Active,No,,Rheumatoid Arthritis,Corticosteroids,No,0
+54,Male,No,Underweight,Sedentary,No,,Hyperthyroidism,,No,1
+35,Male,Yes,Normal,Sedentary,No,,,,No,0
+47,Male,Yes,Normal,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+21,Male,No,Normal,Active,No,Moderate,,Corticosteroids,No,0
+62,Female,Yes,Underweight,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes,1
+29,Male,No,Underweight,Sedentary,Yes,,,Corticosteroids,Yes,0
+22,Female,No,Normal,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,Yes,0
+36,Female,No,Underweight,Sedentary,No,,Hyperthyroidism,Corticosteroids,No,1
+66,male,No,Underweight,Active,yes,,Rheumatoid Arthritis,,Yes,1
+19,female,Yes,Underweight,Sedentary,yes,,,,Yes,0
+35,Female,No,Normal,Sedentary,Yes,Moderate,,Corticosteroids,Yes,1
+21,Male,No,Normal,Active,No,Moderate,Hyperthyroidism,Corticosteroids,No,0
+90,Male,Yes,Normal,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,No,1
+35,Male,No,Underweight,Sedentary,No,,Rheumatoid Arthritis,,No,1
+18,Male,No,Normal,Active,No,,Rheumatoid Arthritis,,Yes,0
+83,Male,No,Normal,Sedentary,No,,Rheumatoid Arthritis,,No,1
+58,Male,Yes,Normal,Sedentary,No,,,Corticosteroids,,1
+73,Female,No,Underweight,Sedentary,No,Moderate,Rheumatoid Arthritis,,Yes,1
+63,Female,Yes,Underweight,Sedentary,No,Moderate,,Corticosteroids,Yes,1
+63,Male,Yes,Underweight,Active,No,,Hyperthyroidism,Corticosteroids,Yes,1
+22,Male,No,Underweight,Sedentary,Yes,,Rheumatoid Arthritis,,Yes,0
+38,Male,Yes,Normal,Sedentary,Yes,,,,No,0
+34,Male,No,Underweight,Active,No,,Hyperthyroidism,,Yes,0
+53,Male,Yes,Underweight,Sedentary,No,,,Corticosteroids,No,1
+88,Female,No,Normal,Active,Yes,,Hyperthyroidism,Corticosteroids,No,1
+18,Male,No,Normal,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,No,0
+82,Male,No,Underweight,Active,Yes,Moderate,,,Yes,1
+34,Female,Yes,Normal,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,Yes,0
+62,Male,No,Normal,Active,Yes,,Hyperthyroidism,,No,1
+23,Female,Yes,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,,No,0
+21,Male,Yes,Underweight,Active,No,Moderate,,Corticosteroids,Yes,0
+45,Female,Yes,Normal,Active,No,,,,Yes,1
+53,Male,Yes,Underweight,Active,No,Moderate,Rheumatoid Arthritis,,Yes,1
+35,Female,Yes,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,,No,0
+20,Female,Yes,Normal,Active,Yes,Moderate,,Corticosteroids,No,0
+18,Female,Yes,Underweight,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,No,1
+81,Male,No,Underweight,Active,No,,,Corticosteroids,No,1
+34,Female,No,Underweight,Sedentary,Yes,,,,No,0
+75,Male,No,Normal,,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes,1
+46,Male,No,Underweight,Active,No,Moderate,Rheumatoid Arthritis,,No,1
+22,Male,Yes,Normal,Active,Yes,,Hyperthyroidism,Corticosteroids,No,0
+38,Female,No,Underweight,Sedentary,Yes,,Rheumatoid Arthritis,,Yes,0
+68,Male,No,Normal,Active,No,,Hyperthyroidism,,Yes,1
+19,Female,Yes,Normal,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,No,0
+23,Female,No,Normal,Active,No,,Hyperthyroidism,Corticosteroids,,0
+19,Female,Yes,Normal,Active,Yes,,Hyperthyroidism,,No,0
+19,Female,No,Underweight,Active,Yes,Moderate,,Corticosteroids,Yes,0
+77,Male,Yes,Normal,Active,No,,Hyperthyroidism,,Yes,1
+43,Male,No,Normal,Sedentary,No,Moderate,,Corticosteroids,Yes,1
+36,Male,Yes,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,,1
+50,Male,No,Underweight,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+34,Male,Yes,Normal,Active,Yes,Moderate,,,No,0
+34,Male,Yes,Underweight,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,No,0
+18,Male,No,Normal,Active,No,,Rheumatoid Arthritis,,Yes,0
+20,Male,Yes,Underweight,Sedentary,Yes,Moderate,,Corticosteroids,Yes,0
+38,MALE,Yes,Normal,Sedentary,No,Moderate,Rheumatoid Arthritis,,No,0
+34,Female,Yes,Normal,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,Yes,0
+23,Male,Yes,Normal,Active,Yes,Moderate,,,No,0
+57,Female,Yes,Normal,Active,No,Moderate,Hyperthyroidism,,No,1
+41,Female,Yes,Underweight,Active,Yes,,Hyperthyroidism,,No,1
+20,Female,Yes,Normal,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,No,0
+19,Male,No,Underweight,Active,No,Moderate,,,,0
+90,Male,Yes,Normal,Active,No,Moderate,,,No,1
+20,Female,No,Normal,Active,Yes,,,,No,1
+21,Female,Yes,Underweight,Active,Yes,,Rheumatoid Arthritis,,No,0
+18,Female,No,Underweight,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,0
+85,Female,Yes,Normal,Active,Yes,Moderate,Rheumatoid Arthritis,,No,1
+43,Male,No,Normal,Active,No,Moderate,,Corticosteroids,Yes,1
+29,Female,No,Normal,Active,No,Moderate,Rheumatoid Arthritis,,No,0
+18,Male,Yes,Normal,Sedentary,Yes,,Hyperthyroidism,,No,0
+47,Male,Yes,Underweight,Sedentary,No,,,Corticosteroids,Yes,1
+38,Male,No,Normal,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes,0
+26,Female,No,Underweight,Active,Yes,Moderate,,,No,0
+51,Female,Yes,Normal,Sedentary,Yes,,Hyperthyroidism,,No,1
+44,Male,Yes,Underweight,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+21,Female,No,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No,0
+18,Male,No,Underweight,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No,0
+49,Male,Yes,Underweight,Active,No,,Rheumatoid Arthritis,Corticosteroids,No,1
+21,Male,No,Normal,Active,No,,,Corticosteroids,Yes,0
+18,Male,Yes,Underweight,Sedentary,No,,,,No,0
+19,Female,No,Underweight,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,0
+21,Female,No,Normal,Active,Yes,Moderate,Hyperthyroidism,,Yes,0
+22,Female,Yes,Normal,Sedentary,No,Moderate,,Corticosteroids,Yes,0
+34,Male,Yes,Normal,Sedentary,Yes,,,Corticosteroids,No,0
+66,Male,No,Underweight,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No,1
+38,,No,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,,No,0
+36,Female,No,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,,1
+62,Male,No,Normal,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes,1
+38,Male,No,Normal,Active,No,,,,No,0
+21,Male,Yes,Normal,Sedentary,No,Moderate,,Corticosteroids,No,0
+80,Male,Yes,Normal,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+20,Female,Yes,Normal,Active,No,Moderate,Hyperthyroidism,,Yes,0
+21,Male,Yes,Normal,Sedentary,No,,Hyperthyroidism,Corticosteroids,No,1
+87,Female,No,Normal,Sedentary,Yes,,,,No,1
+79,Male,Yes,Underweight,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No,1
+63,Female,Yes,Normal,Sedentary,No,,Rheumatoid Arthritis,,No,1
+29,Male,Yes,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,,Yes,1
+26,Female,No,Normal,Sedentary,No,,Hyperthyroidism,,No,0
+41,Male,Yes,Underweight,Sedentary,No,,Hyperthyroidism,Corticosteroids,No,1
+53,Female,No,Underweight,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,No,1
+20,Male,No,Normal,Active,Yes,Moderate,,,No,0
+63,Male,No,Normal,Sedentary,No,Moderate,,,No,1
+50,Female,No,Normal,Active,Yes,Moderate,Rheumatoid Arthritis,,No,1
+18,Male,No,Normal,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes,0
+61,Male,No,Normal,Active,No,Moderate,,Corticosteroids,No,1
+20,Male,Yes,Normal,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,0
+20,Male,No,Normal,Active,No,Moderate,Hyperthyroidism,,No,0
+66,Male,Yes,Normal,Active,No,,Rheumatoid Arthritis,Corticosteroids,No,1
+78,Male,No,Underweight,Active,Yes,,Hyperthyroidism,Corticosteroids,No,1
+19,Male,Yes,Underweight,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,No,0
+19,Female,Yes,Underweight,Sedentary,Yes,,Hyperthyroidism,,No,0
+18,Male,Yes,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No,0
+57,Female,Yes,Underweight,Active,No,,Rheumatoid Arthritis,Corticosteroids,No,1
+59,Female,Yes,Normal,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+20,Male,Yes,Underweight,Active,No,Moderate,Hyperthyroidism,Corticosteroids,No,0
+22,Female,No,Underweight,Sedentary,No,Moderate,Hyperthyroidism,,No,0
+26,Male,Yes,Underweight,Sedentary,No,,Hyperthyroidism,,No,0
+21,Male,No,Normal,Active,Yes,,Rheumatoid Arthritis,,No,0
+81,Female,Yes,Normal,Sedentary,No,,Rheumatoid Arthritis,,No,1
+69,Male,No,Normal,Active,Yes,,Rheumatoid Arthritis,,No,1
+38,Female,Yes,Normal,Active,No,Moderate,,Corticosteroids,No,1
+20,Female,Yes,Underweight,Sedentary,No,Moderate,Rheumatoid Arthritis,,Yes,0
+22,Female,No,Normal,Sedentary,No,,,Corticosteroids,Yes,0
+25,Male,No,Underweight,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,No,0
+29,Female,No,Underweight,Sedentary,No,Moderate,,Corticosteroids,No,0
+78,Female,Yes,Normal,Sedentary,Yes,,Hyperthyroidism,,Yes,1
+18,Male,Yes,Normal,Active,Yes,Moderate,,,Yes,1
+55,Male,No,Underweight,Sedentary,Yes,,,,No,1
+20,Male,No,Underweight,Active,Yes,,Hyperthyroidism,Corticosteroids,No,0
+34,Male,No,Normal,Sedentary,Yes,Moderate,,,Yes,0
+81,Male,No,Normal,Sedentary,No,,Hyperthyroidism,,Yes,1
+29,Female,Yes,Normal,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,No,0
+45,Male,Yes,Normal,Active,No,,Hyperthyroidism,Corticosteroids,No,1
+43,Male,No,Underweight,Sedentary,No,,,,Yes,1
+26,Female,Yes,Underweight,Active,Yes,Moderate,,Corticosteroids,Yes,0
+47,Female,No,Underweight,Active,Yes,,Rheumatoid Arthritis,,Yes,1
+67,Male,Yes,Normal,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No,1
+29,Female,Yes,Underweight,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,No,1
+26,Male,Yes,Normal,Sedentary,No,,,Corticosteroids,,0
+31,Male,Yes,Underweight,Active,Yes,,,,Yes,1
+69,Female,No,Underweight,Sedentary,Yes,,Hyperthyroidism,,Yes,1
+21,Male,Yes,Underweight,Active,No,,Rheumatoid Arthritis,,No,0
+86,Male,Yes,Underweight,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,No,1
+64,Female,Yes,Normal,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+29,Male,Yes,Underweight,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No,0
+53,Male,Yes,Normal,Sedentary,Yes,Moderate,Hyperthyroidism,,Yes,1
+55,Male,Yes,Underweight,Sedentary,No,Moderate,,,No,1
+21,Male,Yes,Normal,Active,Yes,,Hyperthyroidism,,No,0
+18,Male,Yes,Underweight,Sedentary,Yes,,Rheumatoid Arthritis,,No,1
+19,Male,No,Normal,Sedentary,Yes,,,,Yes,0
+26,Male,Yes,Underweight,Active,No,Moderate,Hyperthyroidism,,Yes,0
+19,Male,Yes,Normal,,Yes,,,,No,0
+26,Male,No,Normal,Sedentary,Yes,,,,Yes,0
+26,Female,No,,Sedentary,Yes,Moderate,Hyperthyroidism,,No,0
+24,Male,Yes,Normal,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+45,Male,Yes,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,,Yes,1
+41,Female,No,Underweight,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+74,Female,No,Normal,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,No,1
+36,Male,Yes,Underweight,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,No,1
+34,Male,No,Underweight,Active,Yes,,Hyperthyroidism,Corticosteroids,Yes,0
+70,Female,Yes,Normal,Active,Yes,,,,Yes,1
+70,Female,Yes,Underweight,Active,No,Moderate,Rheumatoid Arthritis,,Yes,1
+29,M,Yes,Normal,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,Yes,0
+82,Male,Yes,Underweight,Sedentary,No,Moderate,,,No,1
+25,Female,Yes,Normal,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No,0
+79,Female,Yes,Normal,Sedentary,Yes,,,,No,1
+89,Female,No,Normal,Active,No,Moderate,Hyperthyroidism,Corticosteroids,No,1
+34,Female,No,Normal,Sedentary,No,,Rheumatoid Arthritis,,No,0
+19,Female,No,Underweight,Sedentary,No,,Hyperthyroidism,,No,0
+18,Male,Yes,Normal,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes,0
+70,Female,No,Underweight,Sedentary,Yes,,Rheumatoid Arthritis,,Yes,1
+24,Female,No,Underweight,Sedentary,No,Moderate,Hyperthyroidism,,Yes,1
+28,Male,No,Underweight,Sedentary,No,,Hyperthyroidism,Corticosteroids,Yes,1
+19,Male,No,Normal,Sedentary,Yes,,,Corticosteroids,Yes,0
+74,Female,Yes,Underweight,Sedentary,Yes,Moderate,Hyperthyroidism,,No,1
+20,Female,Yes,Normal,Sedentary,Yes,,Rheumatoid Arthritis,,Yes,0
+20,Male,Yes,Normal,Active,Yes,,Hyperthyroidism,,No,0
+85,Female,Yes,Underweight,Active,Yes,,Hyperthyroidism,Corticosteroids,Yes,1
+61,female,Yes,Underweight,Active,no,Moderate,,Corticosteroids,No,1
+33,Female,Yes,Normal,Sedentary,Yes,Moderate,,,No,1
+21,Female,Yes,Normal,Active,No,Moderate,Hyperthyroidism,Corticosteroids,No,0
+24,Male,No,Underweight,Sedentary,Yes,,Rheumatoid Arthritis,,Yes,1
+43,Male,No,Underweight,Sedentary,Yes,,,Corticosteroids,No,1
+83,Female,Yes,Underweight,Sedentary,No,,Rheumatoid Arthritis,,No,1
+57,Male,Yes,Normal,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,1
+28,Female,No,Underweight,Active,No,Moderate,Hyperthyroidism,Corticosteroids,No,1
+85,Female,Yes,Normal,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No,1
+18,Female,Yes,Normal,Active,Yes,Moderate,Hyperthyroidism,,No,0
+25,Male,No,Underweight,Active,Yes,,Hyperthyroidism,Corticosteroids,Yes,1
+60,Female,No,Normal,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,Yes,1
+63,Female,No,Normal,Active,Yes,,,Corticosteroids,No,1
+18,Female,Yes,Normal,Sedentary,Yes,,Hyperthyroidism,,No,0
+19,Female,Yes,Normal,Sedentary,No,Moderate,Hyperthyroidism,,No,0
+18,Female,Yes,Normal,Sedentary,No,Moderate,Hyperthyroidism,,No,0
+39,female,No,Underweight,Active,no,,,,No,1
+50,Male,No,Normal,Sedentary,No,Moderate,Hyperthyroidism,,No,1
+86,Female,Yes,Normal,Active,No,,Hyperthyroidism,Corticosteroids,No,1
+38,Male,Yes,Normal,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,No,0
+35,Male,Yes,,Active,No,,,,Yes,0
+24,Female,No,Normal,Sedentary,No,,,Corticosteroids,No,1
+86,Female,Yes,Normal,Active,Yes,,,,Yes,1
+29,Male,No,Normal,Active,No,,Rheumatoid Arthritis,,No,0
+51,Male,No,Underweight,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,Yes,1
+73,Male,Yes,Normal,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,No,1
+59,Female,Yes,Underweight,Active,Yes,Moderate,Hyperthyroidism,,Yes,1
+38,Female,No,Normal,Active,Yes,,,Corticosteroids,No,1
+18,Male,Yes,Underweight,Active,Yes,,Rheumatoid Arthritis,,Yes,0
+68,Female,Yes,Normal,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,Yes,1
+29,Male,Yes,Underweight,Active,No,Moderate,Rheumatoid Arthritis,,No,0
+68,Male,No,Underweight,Sedentary,Yes,,Hyperthyroidism,,Yes,1
+85,Female,No,Normal,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,No,1
+89,Male,Yes,Normal,Sedentary,No,Moderate,Rheumatoid Arthritis,,No,1
+29,Female,Yes,Underweight,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes,0
+23,Male,No,Normal,Active,No,,Rheumatoid Arthritis,,No,0
+87,Male,Yes,Normal,Active,No,,Hyperthyroidism,,No,1
+29,Male,Yes,Normal,Active,Yes,Moderate,,,No,0
+70,Male,Yes,Normal,Sedentary,No,,Rheumatoid Arthritis,,No,1
+64,Female,Yes,Underweight,Active,Yes,,Hyperthyroidism,Corticosteroids,Yes,1
+64,MALE,Yes,Normal,Sedentary,Yes,,Rheumatoid Arthritis,,No,1
+50,Male,Yes,Normal,Active,No,Moderate,Hyperthyroidism,Corticosteroids,No,1
+60,Male,No,Underweight,Active,Yes,Moderate,Hyperthyroidism,,No,1
+21,Male,Yes,Underweight,Active,Yes,,Rheumatoid Arthritis,,Yes,0
+37,Male,Yes,Normal,Active,No,,,,Yes,1
+18,Male,No,Underweight,Sedentary,Yes,,,,Yes,0
+47,Female,Yes,Underweight,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes,1
+26,Female,Yes,Normal,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes,0
+47,Female,No,Normal,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,No,1
+21,Male,Yes,Underweight,Active,Yes,Moderate,,,No,0
+29,Female,No,Normal,Sedentary,No,,,,Yes,0
+34,Male,No,Normal,Active,Yes,Moderate,Hyperthyroidism,,Yes,0
+52,Male,Yes,Underweight,,Yes,,Hyperthyroidism,Corticosteroids,No,1
+39,Female,No,Underweight,Sedentary,No,Moderate,,,No,1
+38,Male,Yes,Underweight,Sedentary,Yes,,,,No,1
+57,Female,No,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No,1
+69,Female,Yes,Underweight,Sedentary,No,Moderate,Hyperthyroidism,,Yes,1
+20,Male,Yes,Underweight,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,No,0
+26,Male,Yes,Underweight,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes,0
+19,Male,Yes,Normal,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes,0
+22,Female,Yes,Normal,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,No,0
+85,Male,Yes,Underweight,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,No,1
+80,Male,Yes,Normal,Active,No,,,,No,1
+41,Female,No,Normal,Active,Yes,Moderate,,,Yes,1
+25,Female,No,Underweight,Active,No,,,,Yes,0
+26,Female,No,Underweight,Sedentary,Yes,Moderate,,,Yes,1
+87,,No,Normal,Active,Yes,,,,Yes,1
+25,female,No,Normal,Sedentary,yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,0
+84,Male,Yes,Normal,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,No,1
+19,female,Yes,Underweight,Active,no,,,Corticosteroids,Yes,0
+18,Male,No,Normal,Active,No,,Rheumatoid Arthritis,Corticosteroids,,0
+21,Male,No,Underweight,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,No,0
+29,Female,Yes,Underweight,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,Yes,0
+80,Female,No,Normal,Active,Yes,Moderate,,,Yes,1
+26,Female,No,Underweight,Active,Yes,Moderate,Hyperthyroidism,,No,0
+50,Male,Yes,Normal,Active,Yes,,,,No,1
+38,Male,Yes,Normal,Active,Yes,,Rheumatoid Arthritis,,No,1
+36,Male,No,Normal,Active,No,Moderate,,Corticosteroids,No,1
+20,Male,Yes,Normal,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,Yes,0
+20,Male,No,Normal,Sedentary,No,,,,No,0
+45,Male,No,Underweight,Active,Yes,,Hyperthyroidism,Corticosteroids,Yes,1
+26,Male,Yes,Underweight,Active,Yes,,Hyperthyroidism,Corticosteroids,Yes,1
+29,Female,No,Normal,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,Yes,0
+43,Male,Yes,Underweight,Sedentary,Yes,,Hyperthyroidism,,No,1
+62,M,Yes,Normal,Sedentary,No,Moderate,Rheumatoid Arthritis,,Yes,1
+19,male,No,Underweight,Active,yes,,Rheumatoid Arthritis,Corticosteroids,Yes,0
+18,Female,No,Underweight,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes,0
+69,Male,Yes,Underweight,Sedentary,No,Moderate,Hyperthyroidism,,No,1
+40,Male,No,Underweight,Active,No,Moderate,,Corticosteroids,Yes,1
+57,Male,Yes,Underweight,Active,Yes,Moderate,,Corticosteroids,No,1
+23,Female,Yes,Underweight,Active,No,,Rheumatoid Arthritis,,Yes,0
+34,Female,Yes,Normal,Sedentary,Yes,,,,No,0
+29,Male,No,Normal,Sedentary,No,,,,Yes,0
+29,Male,Yes,Normal,Active,No,Moderate,Hyperthyroidism,Corticosteroids,No,0
+31,Male,Yes,Normal,Active,No,Moderate,,Corticosteroids,Yes,1
+34,Male,No,Underweight,,No,Moderate,,Corticosteroids,Yes,0
+25,Female,No,Underweight,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,No,0
+26,Female,Yes,Underweight,Active,Yes,Moderate,,Corticosteroids,No,0
+29,Female,No,Underweight,Active,No,Moderate,Hyperthyroidism,Corticosteroids,No,0
+29,Male,No,Underweight,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes,0
+19,Male,No,Underweight,Active,No,Moderate,Hyperthyroidism,,No,1
+23,Female,Yes,Underweight,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,Yes,1
+20,Female,No,Underweight,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,0
+61,Female,No,Underweight,Sedentary,No,Moderate,,,Yes,1
+38,Male,Yes,Underweight,Active,Yes,Moderate,,Corticosteroids,Yes,0
+21,Male,No,Normal,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,No,0
+57,Male,Yes,Underweight,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes,1
+22,Female,No,Underweight,Active,Yes,Moderate,,Corticosteroids,Yes,1
+34,Male,No,Normal,Sedentary,No,Moderate,,Corticosteroids,No,0
+53,Male,No,Underweight,Sedentary,No,,,Corticosteroids,No,1
+25,Female,No,Underweight,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,No,0
+34,Female,Yes,Normal,Sedentary,No,Moderate,Hyperthyroidism,,Yes,0
+53,Female,Yes,Normal,Sedentary,Yes,,,,No,1
+70,Male,Yes,Normal,Sedentary,No,,,Corticosteroids,No,1
+29,Male,No,Normal,Sedentary,Yes,,,,Yes,0
+29,Male,Yes,Normal,Active,No,Moderate,,Corticosteroids,No,0
+79,Male,Yes,Normal,Sedentary,No,,Hyperthyroidism,,No,1
+21,Female,Yes,,Sedentary,No,Moderate,,,No,0
+77,Female,No,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,,Yes,1
+58,Female,No,Normal,Sedentary,No,Moderate,,Corticosteroids,No,1
+35,Male,Yes,Normal,Active,No,,Rheumatoid Arthritis,Corticosteroids,No,0
+21,Male,No,Underweight,Sedentary,Yes,,,,No,0
+82,Female,Yes,Underweight,Sedentary,Yes,Moderate,Hyperthyroidism,,No,1
+30,M,Yes,Underweight,Sedentary,Yes,,,,Yes,1
+34,Male,Yes,Normal,Active,Yes,,Rheumatoid Arthritis,,No,0
+84,Female,No,Underweight,,No,,Hyperthyroidism,,Yes,1
+68,Female,No,Underweight,Sedentary,Yes,,Rheumatoid Arthritis,,Yes,1
+21,Male,No,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,,Yes,0
+18,Femal,Yes,Underweight,Active,Yes,,Hyperthyroidism,Corticosteroids,Yes,0
+34,Male,Yes,Underweight,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,0
+29,Female,No,Normal,Sedentary,Yes,Moderate,,Corticosteroids,Yes,0
+89,Male,No,Underweight,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes,1
+74,Female,Yes,Normal,Active,Yes,,,Corticosteroids,Yes,1
+20,Male,Yes,Normal,Sedentary,Yes,,Rheumatoid Arthritis,,Yes,0
+50,Male,No,Normal,Active,Yes,Moderate,,Corticosteroids,Yes,1
+22,Male,Yes,Underweight,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes,0
+38,Male,No,Normal,Active,Yes,Moderate,Rheumatoid Arthritis,,No,0
+77,Female,Yes,Underweight,Sedentary,No,,,Corticosteroids,No,1
+89,Female,No,Underweight,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,1
+29,Female,Yes,Underweight,Sedentary,Yes,,Hyperthyroidism,,No,0
+64,Female,Yes,Normal,Active,Yes,Moderate,Hyperthyroidism,,Yes,1
+29,Female,Yes,Normal,Active,No,Moderate,,Corticosteroids,No,0
+18,Male,Yes,Normal,Active,No,Moderate,Hyperthyroidism,Corticosteroids,No,0
+25,Female,No,Normal,Sedentary,No,,,Corticosteroids,Yes,0
+54,Male,Yes,Normal,Sedentary,Yes,,Hyperthyroidism,,No,1
+90,Male,No,Normal,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes,1
+19,Female,No,Normal,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,0
+19,Female,No,Underweight,Active,Yes,,Rheumatoid Arthritis,,Yes,0
+30,Male,No,Normal,Active,Yes,Moderate,,,Yes,1
+51,Female,No,Normal,Active,Yes,Moderate,Rheumatoid Arthritis,,Yes,1
+50,Female,No,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,,No,1
+44,Female,Yes,Underweight,Sedentary,No,,Hyperthyroidism,Corticosteroids,No,1
+19,Male,No,Normal,Sedentary,No,,Rheumatoid Arthritis,,Yes,0
+19,Female,Yes,Normal,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,Yes,0
+29,Male,No,Underweight,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes,0
+21,Female,Yes,Normal,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,Yes,0
+29,Male,No,Normal,Sedentary,No,Moderate,Hyperthyroidism,,No,0
+71,Female,No,Normal,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,No,1
+22,Female,No,Normal,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,No,0
+56,Female,Yes,Normal,Active,No,Moderate,Rheumatoid Arthritis,,Yes,1
+29,Female,No,Normal,Sedentary,No,,,,No,1
+26,Female,Yes,Underweight,Sedentary,Yes,,,,No,0
+34,Female,Yes,Underweight,Sedentary,No,,,Corticosteroids,Yes,0
+20,Female,Yes,Normal,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,Yes,0
+34,Male,Yes,Normal,Active,No,Moderate,Rheumatoid Arthritis,,No,0
+54,Female,Yes,Underweight,Sedentary,Yes,,Hyperthyroidism,,Yes,1
+73,Female,Yes,Underweight,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+67,Female,No,Normal,Active,Yes,Moderate,,Corticosteroids,No,1
+35,Female,No,Underweight,Sedentary,No,Moderate,,Corticosteroids,Yes,0
+22,Female,No,Underweight,Active,No,,,,No,0
+29,Female,No,Underweight,Active,Yes,Moderate,,Corticosteroids,Yes,0
+34,Male,Yes,Underweight,Active,No,Moderate,,,Yes,0
+18,Female,No,Normal,Active,No,,Rheumatoid Arthritis,,Yes,0
+47,Male,Yes,Underweight,Sedentary,Yes,,Hyperthyroidism,,No,1
+82,Male,No,Normal,Sedentary,No,,,,Yes,1
+29,Female,Yes,Underweight,Active,Yes,,Rheumatoid Arthritis,,Yes,0
+63,Male,No,Normal,Sedentary,No,,,,Yes,1
+20,Female,Yes,Underweight,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes,0
+40,Female,Yes,Normal,Active,No,Moderate,Hyperthyroidism,Corticosteroids,No,1
+21,Female,No,Normal,Active,Yes,Moderate,Rheumatoid Arthritis,,No,0
+50,Female,Yes,Normal,Active,No,Moderate,,,No,1
+75,Female,Yes,Normal,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes,1
+20,Male,No,Underweight,Sedentary,No,,Hyperthyroidism,Corticosteroids,Yes,0
+27,Male,Yes,Underweight,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No,1
+24,Female,Yes,Normal,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+19,Male,No,Underweight,Active,Yes,Moderate,,,Yes,0
+20,Female,Yes,Normal,Active,No,,Hyperthyroidism,,Yes,0
+80,Male,Yes,Normal,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+18,,Yes,Normal,Sedentary,no,,Rheumatoid Arthritis,,Yes,0
+19,Female,Yes,Underweight,Active,No,Moderate,Rheumatoid Arthritis,,No,0
+25,Female,Yes,Normal,Sedentary,No,,Hyperthyroidism,,Yes,0
+51,Male,No,Normal,Sedentary,Yes,Moderate,,,No,1
+56,Female,No,Normal,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes,1
+18,Male,Yes,Normal,Active,Yes,,Rheumatoid Arthritis,,Yes,0
+26,Male,No,Normal,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes,0
+34,Male,No,,Active,No,Moderate,Hyperthyroidism,Corticosteroids,Yes,0
+21,Male,Yes,Normal,Sedentary,No,Moderate,,,No,0
+29,Female,No,Underweight,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,Yes,0
+71,Male,Yes,Normal,Sedentary,Yes,,Hyperthyroidism,,No,1
+61,female,Yes,Normal,Active,yes,,Hyperthyroidism,Corticosteroids,Yes,1
+32,Female,Yes,Underweight,Active,No,Moderate,Rheumatoid Arthritis,,Yes,1
+19,Male,No,Normal,Sedentary,No,,Hyperthyroidism,Corticosteroids,No,0
+34,Female,Yes,Underweight,Sedentary,Yes,,Rheumatoid Arthritis,,No,0
+75,Male,Yes,Underweight,Active,No,,,Corticosteroids,No,1
+56,Female,Yes,Underweight,Sedentary,No,,Hyperthyroidism,Corticosteroids,Yes,1
+25,Female,Yes,Underweight,Sedentary,No,Moderate,,,Yes,1
+19,Male,No,Underweight,Active,Yes,,Hyperthyroidism,,No,1
+19,Female,Yes,Normal,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,Yes,0
+79,Female,Yes,Normal,Sedentary,Yes,Moderate,,Corticosteroids,No,1
+23,Male,Yes,Underweight,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,No,0
+25,Male,No,Normal,Active,No,Moderate,Hyperthyroidism,Corticosteroids,No,0
+25,Female,Yes,Normal,Active,No,Moderate,Hyperthyroidism,Corticosteroids,Yes,1
+34,Male,Yes,Normal,Active,No,Moderate,,Corticosteroids,Yes,0
+75,Female,Yes,Normal,Active,No,,,,Yes,1
+20,Male,Yes,Underweight,Sedentary,No,,Rheumatoid Arthritis,,No,1
+34,Male,Yes,Normal,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,0
+18,Female,No,Normal,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,No,0
+37,Male,No,Underweight,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,No,1
+56,Female,Yes,Normal,Sedentary,No,,,Corticosteroids,Yes,1
+76,Female,No,Underweight,Active,Yes,,Rheumatoid Arthritis,,No,1
+54,Male,No,Normal,Sedentary,Yes,Moderate,,,No,1
+18,Female,Yes,Normal,Sedentary,No,,,Corticosteroids,No,0
+75,Male,Yes,Normal,Sedentary,No,Moderate,Rheumatoid Arthritis,,Yes,1
+18,Female,No,Normal,Active,No,,Hyperthyroidism,,Yes,0
+22,Male,Yes,Normal,Active,Yes,Moderate,Hyperthyroidism,,No,0
+20,Male,Yes,Normal,Active,Yes,,Rheumatoid Arthritis,,Yes,0
+66,Male,No,Normal,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No,1
+21,Male,Yes,Normal,Sedentary,Yes,,,Corticosteroids,No,0
+35,Female,No,Underweight,Active,Yes,,,,Yes,0
+19,Female,Yes,Normal,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes,0
+37,Male,Yes,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No,1
+29,Male,No,Underweight,Sedentary,Yes,Moderate,,,Yes,0
+22,Female,Yes,Normal,Active,No,Moderate,Hyperthyroidism,Corticosteroids,No,0
+29,Female,Yes,Underweight,Active,No,Moderate,,,No,0
+29,Male,No,Normal,Sedentary,Yes,,Rheumatoid Arthritis,,Yes,0
+79,Male,No,Normal,Sedentary,Yes,,,,Yes,1
+19,Female,Yes,Normal,Active,No,Moderate,,,Yes,0
+20,MALE,Yes,Underweight,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,0
+22,Female,Yes,Underweight,Active,Yes,,Hyperthyroidism,,Yes,0
+38,Female,Yes,Underweight,Sedentary,No,,Hyperthyroidism,Corticosteroids,No,0
+84,Male,No,Underweight,Sedentary,No,,,Corticosteroids,No,1
+73,Male,Yes,Normal,Sedentary,No,Moderate,,,Yes,1
+45,Female,No,Underweight,Sedentary,Yes,Moderate,Hyperthyroidism,,No,1
+66,Male,No,Normal,Active,No,Moderate,Hyperthyroidism,Corticosteroids,Yes,1
+52,Male,Yes,Underweight,Active,No,,,Corticosteroids,No,1
+18,Female,No,Normal,Active,No,Moderate,,,Yes,0
+34,Male,No,Normal,Active,Yes,,Hyperthyroidism,Corticosteroids,Yes,0
+88,Male,No,Normal,Active,No,Moderate,Hyperthyroidism,Corticosteroids,No,1
+22,Female,Yes,Underweight,Sedentary,No,Moderate,Rheumatoid Arthritis,,Yes,0
+23,Female,Yes,Normal,Active,No,Moderate,,,Yes,1
+19,MALE,Yes,Underweight,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,Yes,0
+23,Male,No,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+37,Male,No,Normal,Active,No,,,Corticosteroids,Yes,1
+68,MALE,Yes,Normal,Active,No,,Hyperthyroidism,Corticosteroids,No,1
+21,Male,No,Normal,Active,No,,,,Yes,0
+35,Male,Yes,Underweight,Active,Yes,,Hyperthyroidism,Corticosteroids,Yes,0
+37,Female,Yes,Underweight,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes,1
+49,Female,No,Underweight,Active,Yes,,Hyperthyroidism,Corticosteroids,No,1
+29,Male,Yes,Underweight,Active,No,Moderate,,Corticosteroids,Yes,0
+22,Female,Yes,Normal,Sedentary,No,Moderate,,,No,1
+35,Male,Yes,Underweight,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes,0
+39,Female,No,Normal,Sedentary,No,Moderate,,,No,1
+25,Female,Yes,Underweight,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,1
+20,Female,Yes,Normal,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes,0
+42,Female,No,Normal,Sedentary,No,,Hyperthyroidism,Corticosteroids,No,1
+34,Male,No,Normal,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,No,0
+75,Male,Yes,Underweight,Active,No,Moderate,,Corticosteroids,Yes,1
+34,male,No,Underweight,Active,yes,Moderate,,,Yes,0
+18,Female,No,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,0
+87,Female,No,Underweight,Active,Yes,,,,Yes,1
+20,Male,Yes,Normal,Active,No,,Rheumatoid Arthritis,,No,1
+35,Male,Yes,Underweight,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,0
+19,Male,Yes,Normal,Sedentary,Yes,,,,No,0
+86,Male,No,Underweight,Active,Yes,Moderate,,Corticosteroids,No,1
+19,Female,No,Normal,Sedentary,No,,Hyperthyroidism,,Yes,0
+80,Female,No,Normal,Active,No,Moderate,Hyperthyroidism,,No,1
+90,Male,Yes,Underweight,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,No,1
+22,Male,Yes,Underweight,Sedentary,Yes,,,Corticosteroids,No,0
+40,Male,Yes,Normal,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No,1
+26,Male,Yes,Underweight,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,0
+23,Male,No,Normal,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,No,0
+22,Female,Yes,Normal,Active,No,Moderate,Hyperthyroidism,,No,1
+80,Female,Yes,Underweight,Active,No,Moderate,Hyperthyroidism,Corticosteroids,No,1
+79,Male,Yes,Underweight,Active,Yes,Moderate,,,No,1
+20,female,No,Normal,Sedentary,yes,Moderate,,Corticosteroids,No,0
+18,Female,No,Normal,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+28,Female,Yes,Normal,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,Yes,1
+64,Female,No,Underweight,Active,Yes,,Rheumatoid Arthritis,,No,1
+56,Male,Yes,Underweight,Sedentary,No,,,Corticosteroids,No,1
+79,Male,Yes,Underweight,Sedentary,Yes,,Rheumatoid Arthritis,,Yes,1
+29,Male,No,Underweight,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,0
+21,Female,No,Normal,Sedentary,Yes,,,,,0
+34,Male,Yes,Underweight,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,Yes,0
+22,Female,Yes,Underweight,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No,0
+18,Male,Yes,Normal,Active,No,Moderate,Hyperthyroidism,,No,0
+22,Female,Yes,Underweight,Sedentary,Yes,,,Corticosteroids,Yes,0
+36,Female,No,Normal,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes,1
+29,M,No,Normal,Active,Yes,Moderate,Rheumatoid Arthritis,,No,0
+55,Female,Yes,Underweight,Sedentary,Yes,Moderate,,Corticosteroids,Yes,1
+20,Female,Yes,Normal,Active,Yes,,Hyperthyroidism,Corticosteroids,Yes,0
+21,Female,No,Normal,Active,No,Moderate,Hyperthyroidism,,No,0
+74,Female,No,Normal,Active,No,,Hyperthyroidism,Corticosteroids,No,1
+69,Male,No,Normal,Active,Yes,Moderate,Rheumatoid Arthritis,,No,1
+26,Male,Yes,Underweight,Active,No,,,,Yes,0
+64,Male,No,Underweight,Active,No,,,Corticosteroids,Yes,1
+57,Male,Yes,Normal,Active,No,,Rheumatoid Arthritis,,No,1
+19,Male,Yes,Normal,Sedentary,No,,Rheumatoid Arthritis,,No,0
+18,Female,Yes,Normal,Sedentary,Yes,Moderate,,Corticosteroids,No,0
+40,Female,Yes,Underweight,Active,No,,Rheumatoid Arthritis,,No,1
+18,Female,Yes,Underweight,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No,0
+46,Female,No,,Active,No,Moderate,Hyperthyroidism,,No,1
+79,Female,No,Underweight,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes,1
+20,Male,Yes,Normal,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,No,0
+25,Male,No,Underweight,Active,No,,,Corticosteroids,Yes,1
+74,Male,No,Underweight,Active,No,Moderate,,Corticosteroids,No,1
+35,Female,Yes,Normal,Active,Yes,,,,Yes,0
+25,Male,Yes,Underweight,Sedentary,No,,Hyperthyroidism,,Yes,0
+53,Male,Yes,Normal,Active,No,,,,Yes,1
+41,male,No,Normal,Sedentary,yes,Moderate,,,Yes,1
+35,Male,Yes,Underweight,Active,Yes,,,,No,0
+25,Female,No,Normal,Active,No,,Hyperthyroidism,Corticosteroids,No,0
+30,female,No,Normal,Sedentary,yes,Moderate,,Corticosteroids,Yes,1
+53,female,No,Normal,Sedentary,no,,Rheumatoid Arthritis,Corticosteroids,Yes,1
+78,Male,No,Normal,Sedentary,No,Moderate,,,Yes,1
+86,Male,No,Normal,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+23,Male,No,Underweight,Active,Yes,Moderate,Hyperthyroidism,,No,1
+34,Male,Yes,Underweight,Active,No,Moderate,,Corticosteroids,Yes,1
+86,Male,No,Underweight,Active,Yes,Moderate,,,Yes,1
+20,Female,No,Normal,Sedentary,No,Moderate,Hyperthyroidism,,No,0
+83,Female,No,Underweight,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,1
+23,Female,No,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,0
+19,Male,No,Normal,Sedentary,No,,Rheumatoid Arthritis,,No,0
+38,Male,No,Normal,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,No,1
+34,Female,No,Underweight,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,No,0
+21,Male,No,Normal,Active,No,,Rheumatoid Arthritis,,No,0
+19,Male,Yes,Normal,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,No,1
+48,Male,Yes,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No,1
+86,Female,Yes,Normal,Active,No,,,,No,1
+21,Male,No,Normal,Sedentary,Yes,Moderate,,Corticosteroids,Yes,0
+19,Male,Yes,Underweight,Sedentary,No,Moderate,Rheumatoid Arthritis,,No,0
+46,Female,Yes,Underweight,Active,No,Moderate,,,Yes,1
+34,Female,Yes,Underweight,Sedentary,Yes,Moderate,Hyperthyroidism,,No,0
+20,Female,Yes,Normal,Sedentary,Yes,,,Corticosteroids,No,1
+45,Female,No,Normal,Sedentary,No,Moderate,Rheumatoid Arthritis,,No,1
+22,Female,Yes,Normal,Active,No,Moderate,Rheumatoid Arthritis,,No,0
+18,Female,Yes,Underweight,Active,Yes,,Hyperthyroidism,,No,0
+75,Female,No,Underweight,Sedentary,No,,Rheumatoid Arthritis,,Yes,1
+18,Male,No,Underweight,Sedentary,Yes,Moderate,,Corticosteroids,Yes,0
+65,Male,Yes,Underweight,,No,Moderate,Hyperthyroidism,,Yes,1
+22,Female,Yes,Normal,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,No,1
+19,Female,Yes,Normal,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes,0
+33,Male,No,Underweight,Sedentary,No,,,Corticosteroids,No,1
+34,Female,No,Underweight,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,0
+44,Male,No,Normal,Sedentary,Yes,Moderate,Hyperthyroidism,,Yes,1
+18,Female,No,Underweight,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,No,0
+20,Female,Yes,Underweight,,No,,,Corticosteroids,No,0
+35,Female,No,Normal,Active,Yes,Moderate,,Corticosteroids,No,0
+38,Female,Yes,Normal,Active,No,,,Corticosteroids,No,0
+20,Female,Yes,Normal,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No,0
+21,Male,Yes,Underweight,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No,0
+30,Male,Yes,Underweight,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,Yes,1
+29,Female,Yes,Underweight,Active,Yes,,Hyperthyroidism,Corticosteroids,Yes,0
+18,Male,No,Underweight,Active,Yes,Moderate,Hyperthyroidism,,No,0
+57,Female,Yes,Underweight,Sedentary,No,,Hyperthyroidism,Corticosteroids,No,1
+47,female,Yes,Normal,Active,yes,,,,Yes,1
+18,Male,Yes,Normal,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,No,0
+25,Female,No,Normal,Active,No,Moderate,Hyperthyroidism,,No,0
+50,MALE,Yes,Underweight,Sedentary,No,,Rheumatoid Arthritis,,No,1
+49,Male,Yes,Underweight,Active,No,Moderate,,Corticosteroids,No,1
+25,Female,No,Normal,Active,No,,Hyperthyroidism,Corticosteroids,No,1
+67,Male,Yes,Normal,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+34,,No,Underweight,Active,No,,Rheumatoid Arthritis,,Yes,0
+46,Female,No,Normal,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,1
+62,Female,No,Underweight,Active,Yes,Moderate,,,No,1
+21,Female,No,Normal,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,Yes,0
+68,Female,Yes,Underweight,Active,No,,Hyperthyroidism,,No,1
+25,Female,No,Underweight,Active,No,Moderate,Hyperthyroidism,,No,0
+29,Male,No,Normal,Sedentary,No,,Rheumatoid Arthritis,,No,0
+38,Female,No,Underweight,Sedentary,Yes,Moderate,Hyperthyroidism,,No,1
+35,Female,Yes,Underweight,Active,Yes,,Rheumatoid Arthritis,,No,0
+55,Male,No,Underweight,Active,No,,Hyperthyroidism,,Yes,1
+22,Male,Yes,Underweight,Sedentary,No,Moderate,,,No,0
+31,Female,Yes,Normal,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,1
+54,Male,No,Normal,Sedentary,No,,,,Yes,1
+19,Male,No,Underweight,Sedentary,No,Moderate,Hyperthyroidism,,Yes,0
+29,Female,Yes,Normal,Active,Yes,,,,Yes,1
+26,Female,No,Underweight,Sedentary,No,,,,No,0
+87,Male,No,Underweight,Sedentary,No,,Hyperthyroidism,,No,1
+22,Male,No,Underweight,Sedentary,No,,Rheumatoid Arthritis,,No,1
+80,Female,No,Normal,Active,No,Moderate,,,Yes,1
+20,Female,Yes,Underweight,Active,Yes,Moderate,,Corticosteroids,No,0
+18,Male,No,Normal,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+37,Male,No,Normal,Sedentary,No,,,Corticosteroids,Yes,1
+34,,Yes,Normal,Active,No,Moderate,Hyperthyroidism,,Yes,0
+35,Female,No,Normal,Active,Yes,,Rheumatoid Arthritis,,Yes,0
+29,Female,Yes,Normal,Active,No,,,,Yes,1
+50,Male,Yes,Normal,Active,No,,Rheumatoid Arthritis,,Yes,1
+22,Female,No,Normal,Sedentary,Yes,,Hyperthyroidism,,No,0
+29,Male,Yes,Underweight,Active,Yes,,,,No,0
+75,female,Yes,Underweight,Sedentary,no,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+29,Male,Yes,Normal,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,No,1
+19,Male,Yes,Underweight,Active,No,Moderate,Hyperthyroidism,,No,0
+75,Male,No,Underweight,Active,Yes,,Hyperthyroidism,,No,1
+20,Female,No,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No,0
+38,Male,No,Underweight,Active,No,,Hyperthyroidism,,No,1
+35,Male,Yes,Normal,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,0
+22,,No,Underweight,Active,No,Moderate,,,Yes,0
+25,Female,Yes,Underweight,Active,Yes,,Rheumatoid Arthritis,,Yes,0
+47,Male,Yes,Underweight,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,No,1
+38,Female,No,Normal,Sedentary,No,Moderate,Hyperthyroidism,,Yes,0
+34,Female,No,Underweight,Active,No,,Hyperthyroidism,,Yes,1
+69,Female,Yes,Normal,Active,Yes,,Rheumatoid Arthritis,,No,1
+66,Female,Yes,Underweight,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,1
+21,Male,Yes,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,,Yes,0
+22,Male,No,Normal,Active,No,,Rheumatoid Arthritis,Corticosteroids,No,0
+34,female,No,Underweight,Sedentary,yes,,Rheumatoid Arthritis,Corticosteroids,No,0
+38,Female,Yes,Underweight,Active,Yes,Moderate,Hyperthyroidism,,No,0
+18,Male,No,Normal,Active,No,Moderate,,Corticosteroids,,0
+56,Male,Yes,Underweight,Active,No,,Hyperthyroidism,,Yes,1
+35,Female,No,Normal,Sedentary,No,Moderate,Rheumatoid Arthritis,,No,0
+41,Male,No,Normal,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,Yes,1
+18,Male,No,Normal,Sedentary,Yes,Moderate,,Corticosteroids,No,0
+22,Female,Yes,Underweight,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes,1
+20,Male,Yes,Normal,Active,No,Moderate,,Corticosteroids,Yes,1
+18,Female,Yes,Underweight,Active,Yes,,Hyperthyroidism,Corticosteroids,Yes,0
+20,Female,No,Normal,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No,0
+19,Male,No,Normal,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,No,1
+21,Male,Yes,Underweight,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,No,1
+18,Female,No,Normal,Active,Yes,Moderate,Hyperthyroidism,,No,0
+52,Female,Yes,Underweight,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes,1
+35,Male,Yes,Underweight,Sedentary,No,,Hyperthyroidism,,Yes,0
+22,Female,No,Normal,Active,Yes,,,,Yes,1
+83,,Yes,Underweight,Sedentary,No,,,,No,1
+55,Female,Yes,Normal,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes,1
+63,Female,No,Normal,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,Yes,1
+35,Female,No,Normal,Sedentary,No,Moderate,,,Yes,0
+22,M,No,Normal,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,Yes,1
+26,Male,No,Underweight,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+35,Male,Yes,Underweight,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No,0
+19,Female,Yes,Normal,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,No,0
+74,Female,Yes,Normal,Sedentary,No,,,Corticosteroids,No,1
+20,Male,Yes,Normal,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,No,0
+50,Female,Yes,Underweight,Sedentary,No,Moderate,Rheumatoid Arthritis,,Yes,1
+23,Male,Yes,Normal,Active,Yes,,,Corticosteroids,No,0
+18,Female,Yes,Normal,Active,No,Moderate,,Corticosteroids,No,0
+21,Female,No,Normal,Sedentary,Yes,Moderate,Hyperthyroidism,,Yes,0
+35,Female,Yes,Underweight,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,,0
+19,Female,No,Normal,Sedentary,Yes,Moderate,,,No,1
+43,Female,Yes,Underweight,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,Yes,1
+41,Female,No,Underweight,Sedentary,No,,Hyperthyroidism,Corticosteroids,Yes,1
+34,Male,Yes,Underweight,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,No,0
+22,Male,Yes,Normal,,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,0
+19,Female,No,Underweight,Sedentary,No,Moderate,Hyperthyroidism,,No,0
+34,Male,Yes,Normal,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No,0
+21,Male,No,Underweight,Sedentary,No,Moderate,Hyperthyroidism,,Yes,0
+40,MALE,No,Underweight,Active,No,,,,No,1
+89,Female,No,Underweight,Active,Yes,,Hyperthyroidism,,No,1
+33,Male,Yes,Underweight,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,1
+18,Femal,No,Underweight,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,No,0
+27,Female,Yes,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+34,Female,No,Normal,Sedentary,Yes,,,Corticosteroids,No,0
+18,Male,No,Underweight,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,0
+22,Male,Yes,Normal,Active,Yes,Moderate,,Corticosteroids,No,0
+23,Male,No,Normal,Active,No,,,Corticosteroids,No,0
+19,Male,Yes,Normal,Active,No,Moderate,,,Yes,0
+21,Female,Yes,Underweight,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,No,0
+45,Female,Yes,Underweight,Active,Yes,Moderate,,Corticosteroids,No,1
+68,Female,No,Normal,Active,Yes,,Hyperthyroidism,Corticosteroids,Yes,1
+29,Female,Yes,Normal,,No,,Rheumatoid Arthritis,Corticosteroids,No,0
+59,Female,No,Normal,Active,No,,,Corticosteroids,Yes,1
+22,Male,No,Underweight,Active,Yes,Moderate,,Corticosteroids,No,0
+35,Female,No,Normal,Sedentary,Yes,,Hyperthyroidism,,No,0
+34,Male,No,Underweight,Active,Yes,Moderate,,Corticosteroids,Yes,0
+59,Male,No,Normal,Sedentary,Yes,Moderate,,,Yes,1
+21,Male,Yes,Normal,Sedentary,No,Moderate,Rheumatoid Arthritis,,No,0
+20,Female,No,Normal,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,0
+19,Female,Yes,Normal,Active,Yes,Moderate,Rheumatoid Arthritis,,Yes,0
+18,Female,No,Underweight,Active,Yes,,Hyperthyroidism,,Yes,0
+18,Male,No,Underweight,Active,No,,Hyperthyroidism,,Yes,0
+21,Female,No,Normal,Active,Yes,Moderate,Rheumatoid Arthritis,,Yes,0
+39,Male,Yes,Normal,Active,No,,,Corticosteroids,No,1
+18,Male,No,Underweight,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,No,0
+31,Male,No,Normal,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+18,Female,Yes,Normal,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,Yes,0
+19,Female,Yes,Normal,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,Yes,0
+29,Male,No,Normal,Active,No,Moderate,,Corticosteroids,Yes,0
+18,Female,Yes,Underweight,Active,Yes,,,,No,1
+19,Female,Yes,Underweight,Active,Yes,,,Corticosteroids,Yes,1
+21,Male,No,Underweight,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,No,0
+61,Male,No,Underweight,Sedentary,No,,,Corticosteroids,Yes,1
+33,Male,No,Underweight,Active,Yes,,,,No,1
+45,Female,Yes,Underweight,Active,No,Moderate,,,Yes,1
+19,,No,Normal,Active,Yes,,Hyperthyroidism,Corticosteroids,Yes,0
+20,M,Yes,Normal,Active,Yes,,Hyperthyroidism,,Yes,0
+58,Male,No,Normal,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,No,1
+63,Male,No,Underweight,Active,Yes,,,,Yes,1
+38,Male,Yes,Underweight,Active,No,,Hyperthyroidism,,No,1
+50,Female,No,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+46,Female,Yes,Normal,Active,No,,,,Yes,1
+22,Male,No,Underweight,Sedentary,No,Moderate,,,Yes,0
+79,Male,No,Normal,Active,Yes,,Rheumatoid Arthritis,,Yes,1
+22,Male,No,Underweight,Sedentary,No,,,,Yes,1
+34,Male,No,Normal,Active,Yes,Moderate,Hyperthyroidism,,Yes,0
+53,female,No,Normal,Active,no,Moderate,Hyperthyroidism,Corticosteroids,Yes,1
+29,Female,Yes,Normal,Sedentary,No,,Rheumatoid Arthritis,,Yes,0
+23,Female,No,Underweight,Sedentary,No,,Hyperthyroidism,,Yes,0
+19,Male,Yes,Normal,Sedentary,Yes,Moderate,,,Yes,0
+34,Female,Yes,Normal,Active,Yes,,,,No,0
+80,Male,No,Underweight,Sedentary,No,,,Corticosteroids,Yes,1
+18,Male,No,Underweight,Active,No,Moderate,Hyperthyroidism,Corticosteroids,No,1
+19,Female,Yes,Normal,Active,Yes,,,,Yes,0
+36,Female,Yes,Normal,Active,Yes,Moderate,,Corticosteroids,No,1
+50,Male,Yes,Underweight,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes,1
+69,Male,No,Normal,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No,1
+34,Male,No,Normal,Active,No,Moderate,Hyperthyroidism,,No,1
+19,Female,No,Underweight,Active,Yes,,,Corticosteroids,No,0
+34,Female,No,Underweight,Active,No,,,Corticosteroids,Yes,0
+60,Female,No,Underweight,Active,Yes,,Rheumatoid Arthritis,,Yes,1
+75,Male,Yes,Normal,Active,No,,,Corticosteroids,Yes,1
+19,Female,Yes,Normal,Active,Yes,,Hyperthyroidism,Corticosteroids,Yes,0
+26,Female,No,,Active,Yes,,Hyperthyroidism,,No,1
+19,Male,No,Normal,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,No,0
+18,Male,Yes,Normal,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,Yes,0
+79,Male,No,Normal,Active,Yes,Moderate,Hyperthyroidism,,No,1
+19,Female,Yes,Underweight,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,0
+27,Female,Yes,Underweight,Active,No,,Hyperthyroidism,,No,1
+34,Female,Yes,Normal,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,0
+84,Male,No,Normal,Active,Yes,Moderate,Hyperthyroidism,,No,1
+40,Male,No,Underweight,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,Yes,1
+47,Male,Yes,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No,1
+39,Female,No,Underweight,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes,1
+56,Male,Yes,Underweight,Sedentary,No,,Hyperthyroidism,,,1
+89,Female,No,Normal,Active,No,Moderate,Hyperthyroidism,,Yes,1
+35,Male,No,Underweight,Sedentary,No,,,Corticosteroids,No,0
+21,Female,Yes,Underweight,Active,No,,,Corticosteroids,No,0
+34,Female,No,Underweight,Sedentary,No,Moderate,Rheumatoid Arthritis,,No,0
+53,Male,Yes,Normal,Active,Yes,,,,No,1
+78,Female,No,Underweight,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,No,1
+18,Male,No,Underweight,Active,No,Moderate,Hyperthyroidism,,Yes,0
+29,Female,Yes,Underweight,Active,Yes,,Hyperthyroidism,,Yes,0
+74,Female,Yes,Normal,Active,Yes,,Hyperthyroidism,,No,1
+49,Male,Yes,,Active,Yes,,Hyperthyroidism,Corticosteroids,Yes,1
+41,Male,Yes,Normal,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+41,Male,Yes,Underweight,Active,No,,Hyperthyroidism,Corticosteroids,Yes,1
+19,Female,No,Underweight,Sedentary,No,Moderate,,Corticosteroids,No,0
+41,Female,No,Normal,Active,No,Moderate,Hyperthyroidism,,No,1
+55,MALE,No,Normal,Active,No,Moderate,Rheumatoid Arthritis,,Yes,1
+77,Female,Yes,,Sedentary,No,,Hyperthyroidism,Corticosteroids,Yes,1
+33,Male,Yes,Underweight,Active,Yes,,,Corticosteroids,No,1
+37,Male,No,Normal,Sedentary,Yes,Moderate,Hyperthyroidism,,No,1
+68,Male,No,Normal,Active,Yes,,Rheumatoid Arthritis,,Yes,1
+22,Female,Yes,Underweight,Sedentary,No,,,,Yes,0
+47,Female,Yes,Normal,Sedentary,Yes,,Rheumatoid Arthritis,,No,1
+29,Male,No,Normal,Sedentary,No,Moderate,,Corticosteroids,Yes,0
+18,Female,No,Normal,Sedentary,No,Moderate,Rheumatoid Arthritis,,No,0
+21,Female,Yes,Underweight,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,No,0
+22,Female,No,Underweight,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes,0
+83,Female,Yes,Underweight,Sedentary,No,,,,No,1
+30,Female,Yes,Normal,Active,Yes,,Rheumatoid Arthritis,,Yes,1
+32,Male,Yes,Underweight,Sedentary,Yes,Moderate,Hyperthyroidism,,Yes,1
+29,Female,Yes,Normal,Sedentary,Yes,Moderate,,,No,0
+20,Female,No,Underweight,Active,Yes,,Hyperthyroidism,Corticosteroids,No,0
+20,Male,No,Normal,Active,Yes,Moderate,,,Yes,0
+34,Female,No,Underweight,,No,Moderate,Hyperthyroidism,,No,0
+80,Female,No,Normal,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No,1
+34,Female,No,Underweight,Active,No,,Rheumatoid Arthritis,,Yes,0
+20,Male,Yes,Underweight,Active,No,Moderate,Hyperthyroidism,,No,0
+68,Male,No,Underweight,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,Yes,1
+81,Female,No,Underweight,Sedentary,No,,Hyperthyroidism,,Yes,1
+34,Male,Yes,Underweight,Active,Yes,Moderate,Hyperthyroidism,,No,0
+74,Male,No,Underweight,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,Yes,1
+20,Male,Yes,Underweight,Sedentary,Yes,Moderate,Hyperthyroidism,,Yes,0
+62,Male,No,Underweight,Sedentary,Yes,,,Corticosteroids,No,1
+19,Male,No,Normal,Sedentary,No,Moderate,Rheumatoid Arthritis,,No,0
+37,Female,Yes,Normal,Sedentary,No,Moderate,Hyperthyroidism,,No,1
+22,Female,Yes,Normal,Sedentary,Yes,,,Corticosteroids,No,0
+54,Female,No,Underweight,Active,No,Moderate,,Corticosteroids,No,1
+20,Female,No,Underweight,Active,Yes,,,,No,0
+32,Female,Yes,Normal,Active,No,,Hyperthyroidism,,Yes,1
+49,Female,Yes,Normal,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes,1
+31,Male,Yes,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,,Yes,1
+21,Male,Yes,Underweight,Sedentary,No,,Hyperthyroidism,,Yes,0
+25,Male,No,Underweight,Active,No,,Hyperthyroidism,Corticosteroids,Yes,0
+43,male,Yes,Underweight,Active,no,Moderate,,Corticosteroids,Yes,1
+67,Male,Yes,Normal,Active,No,,,Corticosteroids,No,1
+54,Male,No,Normal,Sedentary,No,Moderate,Rheumatoid Arthritis,,No,1
+22,Female,No,Normal,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,Yes,0
+81,Male,No,Underweight,Active,No,,,Corticosteroids,Yes,1
+19,Female,Yes,Underweight,Active,No,Moderate,,,No,0
+20,Male,Yes,Underweight,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes,0
+68,Male,No,Underweight,Active,No,,,,No,1
+26,Female,No,Normal,Active,Yes,,Hyperthyroidism,,Yes,0
+19,Male,No,Underweight,Active,No,,Hyperthyroidism,Corticosteroids,No,0
+29,Male,No,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,,Yes,0
+53,Female,Yes,Normal,Active,Yes,,Hyperthyroidism,,Yes,1
+29,Female,No,Normal,Sedentary,No,Moderate,Hyperthyroidism,,Yes,0
+38,Male,No,Normal,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes,0
+18,Male,Yes,Normal,Active,Yes,,,Corticosteroids,No,0
+21,MALE,Yes,Normal,Active,Yes,Moderate,,Corticosteroids,No,0
+89,Female,Yes,Underweight,Sedentary,Yes,,,,No,1
+79,Female,Yes,Normal,Active,No,Moderate,,Corticosteroids,Yes,1
+89,Female,No,Normal,Sedentary,Yes,,Hyperthyroidism,,No,1
+66,Male,No,Normal,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes,1
+52,Female,Yes,Normal,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,,1
+18,Female,No,Normal,Active,No,,Rheumatoid Arthritis,,Yes,0
+52,Female,Yes,Underweight,Active,No,,Hyperthyroidism,Corticosteroids,Yes,1
+25,Male,Yes,Underweight,Active,No,,Hyperthyroidism,Corticosteroids,No,0
+18,Male,Yes,Normal,Active,No,,Hyperthyroidism,Corticosteroids,No,0
+29,Male,No,Normal,Active,Yes,,Hyperthyroidism,,No,0
+29,Female,Yes,Underweight,Active,No,,Hyperthyroidism,,Yes,0
+18,Female,No,Underweight,Active,Yes,Moderate,,Corticosteroids,No,0
+18,Male,No,Underweight,Sedentary,No,Moderate,,,No,1
+29,Female,No,Normal,Sedentary,No,,Hyperthyroidism,Corticosteroids,No,0
+21,Male,Yes,Underweight,Sedentary,Yes,Moderate,,Corticosteroids,No,0
+20,Male,No,Underweight,Active,No,,Rheumatoid Arthritis,Corticosteroids,No,0
+18,Female,No,Underweight,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,Yes,0
+26,Female,Yes,Normal,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,No,0
+35,Male,Yes,Underweight,Active,No,,Hyperthyroidism,Corticosteroids,No,0
+20,Female,No,Normal,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No,0
+59,Male,No,Normal,Sedentary,No,,,,No,1
+65,Male,Yes,Normal,Active,No,,Hyperthyroidism,Corticosteroids,No,1
+82,Female,No,Underweight,Active,No,Moderate,,Corticosteroids,No,1
+79,male,No,Underweight,Sedentary,yes,Moderate,Hyperthyroidism,,No,1
+21,Female,Yes,Normal,Sedentary,No,Moderate,Hyperthyroidism,,No,0
+49,Female,Yes,Normal,Active,No,Moderate,Hyperthyroidism,Corticosteroids,Yes,1
+18,Male,Yes,Underweight,Sedentary,No,,Hyperthyroidism,Corticosteroids,No,0
+71,Male,No,Normal,Sedentary,Yes,,,,Yes,1
+73,Male,No,Underweight,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,No,1
+56,Male,No,Underweight,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,No,1
+25,Female,No,Underweight,Active,No,Moderate,Hyperthyroidism,,No,1
+81,Male,Yes,Underweight,Active,No,,,,Yes,1
+39,Male,Yes,Normal,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,Yes,1
+39,Female,No,Normal,Active,Yes,,Hyperthyroidism,Corticosteroids,Yes,1
+38,Male,Yes,Normal,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes,0
+71,Female,Yes,Underweight,Active,No,Moderate,,Corticosteroids,Yes,1
+25,Male,No,Normal,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,Yes,1
+29,Female,Yes,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,,No,0
+18,Female,Yes,Underweight,Active,Yes,,Rheumatoid Arthritis,,Yes,1
+30,Male,Yes,Normal,Active,No,,,,Yes,1
+50,Male,Yes,Normal,Sedentary,No,Moderate,,Corticosteroids,No,1
+29,Female,No,Underweight,Sedentary,No,,,Corticosteroids,No,1
+22,Male,Yes,Normal,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,No,0
+19,Female,No,Normal,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,0
+86,Male,No,Underweight,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+34,Male,Yes,Normal,Active,Yes,Moderate,Hyperthyroidism,,Yes,0
+21,Male,Yes,Underweight,Active,No,,,,Yes,0
+21,Female,Yes,Normal,Sedentary,No,,Hyperthyroidism,Corticosteroids,No,0
+61,Female,Yes,Normal,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,Yes,1
+71,Male,No,Normal,Active,Yes,,,Corticosteroids,No,1
+70,Female,Yes,Normal,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+19,female,No,Normal,Active,yes,,,,Yes,0
+74,Male,No,Underweight,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+26,Male,No,Underweight,Sedentary,No,,,,No,0
+49,Male,No,Normal,Active,Yes,,Rheumatoid Arthritis,,No,1
+19,Male,Yes,Normal,Sedentary,Yes,,,,Yes,0
+21,Male,No,Normal,Active,Yes,Moderate,,,Yes,0
+25,Female,No,Normal,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,No,0
+61,Male,Yes,Underweight,Active,No,,Hyperthyroidism,Corticosteroids,Yes,1
+18,Female,Yes,Underweight,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,No,0
+90,Female,No,Underweight,Active,No,,Rheumatoid Arthritis,,No,1
+78,Female,Yes,Underweight,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,Yes,1
+80,Female,Yes,Underweight,Active,Yes,,Hyperthyroidism,Corticosteroids,Yes,1
+19,Male,No,Normal,Active,Yes,Moderate,Rheumatoid Arthritis,,No,0
+29,Female,No,Normal,Sedentary,No,,Hyperthyroidism,Corticosteroids,Yes,1
+34,Female,Yes,Normal,Sedentary,Yes,Moderate,Hyperthyroidism,,No,0
+21,Female,Yes,Underweight,Sedentary,No,Moderate,Hyperthyroidism,,Yes,0
+46,female,No,Normal,Active,yes,,Hyperthyroidism,Corticosteroids,No,1
+29,Female,Yes,Normal,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes,0
+26,Female,Yes,Underweight,Active,No,,,,Yes,1
+70,Female,Yes,Normal,Active,Yes,,Hyperthyroidism,,Yes,1
+76,female,Yes,Underweight,Active,yes,Moderate,Hyperthyroidism,,Yes,1
+67,Male,No,Normal,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,No,1
+21,Male,No,Underweight,Sedentary,No,,,Corticosteroids,Yes,1
+33,Male,No,Underweight,Sedentary,Yes,,Hyperthyroidism,,Yes,1
+57,Female,Yes,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No,1
+34,M,No,Normal,Sedentary,Yes,Moderate,,Corticosteroids,Yes,0
+20,Male,No,Underweight,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,No,0
+28,Male,No,Normal,Sedentary,Yes,,Rheumatoid Arthritis,,No,1
+79,Male,No,Underweight,Sedentary,Yes,,Hyperthyroidism,,No,1
+46,Male,No,Normal,Active,No,,,,No,1
+67,Female,No,Underweight,Active,Yes,Moderate,,,No,1
+23,Female,Yes,Underweight,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,Yes,1
+18,Male,No,Normal,Active,Yes,Moderate,,Corticosteroids,Yes,1
+19,Male,No,Underweight,Sedentary,No,Moderate,Rheumatoid Arthritis,,Yes,0
+20,Male,No,Normal,Sedentary,No,,,Corticosteroids,Yes,1
+19,Female,No,Underweight,Sedentary,Yes,,,,No,0
+20,Male,No,Normal,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,No,0
+19,,Yes,Normal,Active,No,Moderate,Hyperthyroidism,,No,1
+65,Female,Yes,Normal,Sedentary,No,Moderate,Hyperthyroidism,,No,1
+40,Male,Yes,Normal,Active,No,,,Corticosteroids,Yes,1
+19,Male,No,Normal,Active,Yes,,Rheumatoid Arthritis,,,0
+30,Female,No,Underweight,Sedentary,No,,Rheumatoid Arthritis,,No,1
+29,Male,Yes,Normal,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,No,0
+65,Female,No,Normal,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,Yes,1
+22,Female,Yes,Normal,Active,Yes,Moderate,,,No,0
+79,Male,No,Normal,Active,No,Moderate,,,Yes,1
+20,Female,Yes,Underweight,Active,No,,,Corticosteroids,Yes,0
+52,Female,No,Underweight,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+90,Male,Yes,Underweight,Active,No,Moderate,Hyperthyroidism,Corticosteroids,Yes,1
+46,Male,No,Normal,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No,1
+34,Male,No,Underweight,Active,No,,,Corticosteroids,Yes,0
+19,Female,Yes,Normal,Active,No,Moderate,,,No,0
+90,Female,No,Underweight,Sedentary,No,,,Corticosteroids,No,1
+19,Male,Yes,Underweight,Active,No,,,,No,0
+19,Male,No,Normal,Active,No,,Hyperthyroidism,Corticosteroids,No,0
+29,Femal,Yes,Normal,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,0
+85,Male,No,Underweight,Sedentary,No,,Hyperthyroidism,Corticosteroids,No,1
+19,Male,No,Underweight,Active,Yes,,,Corticosteroids,No,0
+86,Male,No,Underweight,Sedentary,No,Moderate,Rheumatoid Arthritis,,Yes,1
+58,Female,Yes,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+29,Female,No,Normal,Active,Yes,,Hyperthyroidism,,Yes,0
+52,Male,Yes,Underweight,Active,Yes,,Rheumatoid Arthritis,,No,1
+18,Female,No,Underweight,Active,No,,,,Yes,0
+40,Male,No,Underweight,Active,Yes,,Hyperthyroidism,,Yes,1
+19,Female,No,Underweight,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,No,0
+51,Female,No,Normal,,No,,,,No,1
+76,Male,Yes,Normal,Active,No,Moderate,,,Yes,1
+34,Male,Yes,Normal,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,Yes,0
+23,Male,No,Normal,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,0
+29,Female,Yes,Normal,Active,No,Moderate,,Corticosteroids,No,1
+24,Male,Yes,Normal,Active,Yes,,,,Yes,1
+21,Male,Yes,Underweight,Active,No,Moderate,Rheumatoid Arthritis,,Yes,0
+22,Female,Yes,Underweight,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes,0
+34,Male,No,Underweight,Sedentary,Yes,,,Corticosteroids,Yes,1
+35,Female,No,Underweight,Active,No,,,Corticosteroids,Yes,1
+21,Male,No,Normal,Active,No,Moderate,Rheumatoid Arthritis,,Yes,0
+20,Female,No,Underweight,Sedentary,No,Moderate,,Corticosteroids,Yes,0
+69,Female,Yes,Underweight,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+21,Female,No,Underweight,Sedentary,No,Moderate,,,No,0
+25,Female,Yes,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No,0
+34,Female,No,Normal,Sedentary,No,,Rheumatoid Arthritis,,Yes,0
+80,Male,Yes,Underweight,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+18,Female,No,Underweight,Sedentary,Yes,,Hyperthyroidism,,Yes,0
+44,Female,Yes,Underweight,Active,No,Moderate,Rheumatoid Arthritis,,Yes,1
+38,Male,Yes,Underweight,Active,No,,Hyperthyroidism,,Yes,0
+18,Female,Yes,Normal,Active,No,,,Corticosteroids,Yes,0
+55,Male,Yes,Underweight,Sedentary,Yes,,Rheumatoid Arthritis,,Yes,1
+34,Female,Yes,Normal,Sedentary,Yes,Moderate,,,Yes,0
+23,Male,No,Normal,Sedentary,No,Moderate,Hyperthyroidism,,Yes,0
+25,Female,Yes,Normal,Sedentary,No,,,Corticosteroids,No,0
+22,Female,No,Underweight,Sedentary,No,,Hyperthyroidism,,No,0
+52,Female,No,Normal,Active,Yes,Moderate,,,No,1
+22,Female,Yes,Underweight,Sedentary,No,Moderate,,Corticosteroids,Yes,0
+21,Male,Yes,Normal,Active,Yes,Moderate,,Corticosteroids,Yes,0
+19,Female,No,Normal,Active,Yes,Moderate,Hyperthyroidism,,Yes,0
+64,Male,No,Underweight,Sedentary,No,,Rheumatoid Arthritis,,Yes,1
+69,Female,No,Normal,Sedentary,Yes,,,Corticosteroids,No,1
+20,Female,No,Underweight,Active,Yes,,,,Yes,0
+80,Female,No,Underweight,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,No,1
+79,Female,No,Underweight,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes,1
+50,Female,No,Normal,Sedentary,No,,Hyperthyroidism,Corticosteroids,Yes,1
+18,Female,Yes,Underweight,Active,Yes,Moderate,,,Yes,0
+71,Female,Yes,Underweight,Active,No,Moderate,,Corticosteroids,Yes,1
+44,Female,Yes,Underweight,Active,Yes,,,,Yes,1
+19,Female,No,Underweight,Active,No,Moderate,,,No,0
+43,Female,No,Normal,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes,1
+22,Female,No,,Active,No,,Hyperthyroidism,Corticosteroids,Yes,0
+18,Male,Yes,Normal,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,No,0
+22,Male,Yes,Normal,Active,Yes,Moderate,Rheumatoid Arthritis,,No,0
+21,Female,Yes,Underweight,Sedentary,Yes,,Rheumatoid Arthritis,,Yes,0
+18,Male,No,Underweight,Sedentary,No,,,Corticosteroids,Yes,0
+18,Male,Yes,Underweight,Sedentary,No,,Rheumatoid Arthritis,,Yes,0
+19,Female,No,Normal,Active,Yes,Moderate,,Corticosteroids,Yes,1
+79,Male,No,Underweight,Sedentary,No,,Hyperthyroidism,,No,1
+34,Female,No,Normal,,Yes,,Hyperthyroidism,Corticosteroids,No,1
+25,Male,No,Underweight,Active,No,,Hyperthyroidism,,No,1
+23,Male,Yes,Normal,Sedentary,No,Moderate,,,Yes,1
+51,Female,No,Underweight,Sedentary,Yes,Moderate,Hyperthyroidism,,Yes,1
+71,Female,Yes,Underweight,Active,Yes,,,Corticosteroids,No,1
+58,Female,No,Underweight,Active,No,Moderate,,,Yes,1
+18,Female,No,Normal,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,0
+34,Male,Yes,Underweight,Sedentary,No,,,Corticosteroids,No,0
+33,Male,Yes,Normal,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,Yes,1
+20,Male,Yes,Normal,Active,No,Moderate,Hyperthyroidism,,No,0
+18,Female,Yes,Normal,Sedentary,No,Moderate,,,No,0
+68,Female,No,Normal,Sedentary,No,,Hyperthyroidism,,Yes,1
+78,Male,No,Normal,Sedentary,Yes,Moderate,Hyperthyroidism,,Yes,1
+41,Female,No,Normal,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,Yes,1
+34,Male,No,Underweight,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No,0
+64,Female,Yes,Underweight,Sedentary,Yes,Moderate,,Corticosteroids,No,1
+70,,No,Underweight,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,1
+48,Male,Yes,Normal,Sedentary,Yes,Moderate,Hyperthyroidism,,No,1
+26,Female,Yes,Normal,Sedentary,No,,,Corticosteroids,No,0
+73,Male,Yes,Underweight,Sedentary,No,,,Corticosteroids,Yes,1
+29,Female,Yes,Underweight,Sedentary,No,Moderate,Rheumatoid Arthritis,,No,0
+19,Female,No,Normal,Sedentary,Yes,,Rheumatoid Arthritis,,No,0
+22,Male,No,Normal,Active,No,Moderate,,Corticosteroids,Yes,0
+23,Male,Yes,Normal,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No,0
+84,Female,No,Underweight,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,No,1
+39,Male,Yes,Underweight,Sedentary,No,Moderate,Hyperthyroidism,,Yes,1
+21,Male,Yes,Underweight,Active,No,Moderate,Hyperthyroidism,Corticosteroids,No,0
+79,Female,No,Underweight,Sedentary,No,,Rheumatoid Arthritis,,Yes,1
+33,Male,No,Normal,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No,1
+82,Female,No,Underweight,Sedentary,No,Moderate,Rheumatoid Arthritis,,No,1
+87,Male,No,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+34,Male,Yes,Underweight,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes,0
+35,Male,Yes,Normal,Sedentary,Yes,Moderate,,,No,1
+34,Male,Yes,Underweight,Active,No,,,,Yes,0
+19,Female,Yes,Underweight,Sedentary,Yes,Moderate,,,No,0
+21,Female,Yes,Normal,Sedentary,No,Moderate,,,No,0
+25,Male,No,Normal,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes,0
+19,Female,No,Underweight,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,No,0
+18,Female,Yes,Normal,Active,Yes,Moderate,,,No,0
+64,female,No,Normal,Sedentary,yes,,Rheumatoid Arthritis,Corticosteroids,,1
+26,Male,Yes,Underweight,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes,1
+23,Male,No,Underweight,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,0
+79,Female,No,Normal,Active,Yes,,,,No,1
+29,Female,Yes,Normal,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,Yes,0
+29,MALE,Yes,Underweight,Sedentary,Yes,,Hyperthyroidism,,No,1
+21,Male,No,Underweight,Active,Yes,Moderate,,Corticosteroids,Yes,0
+71,Female,Yes,Normal,,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+45,Male,Yes,Underweight,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,No,1
+20,Male,No,Normal,Active,No,Moderate,Hyperthyroidism,,Yes,0
+60,Male,Yes,Normal,Active,No,,Rheumatoid Arthritis,Corticosteroids,No,1
+29,Female,Yes,Underweight,Active,Yes,,Hyperthyroidism,Corticosteroids,No,0
+68,Male,No,Normal,,Yes,Moderate,Hyperthyroidism,,No,1
+21,Female,Yes,Normal,Sedentary,Yes,Moderate,,,Yes,0
+36,Male,Yes,Normal,Active,Yes,,Hyperthyroidism,,Yes,1
+19,Female,Yes,Normal,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,No,0
+69,Female,Yes,Normal,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes,1
+40,Male,Yes,Underweight,Sedentary,Yes,,Rheumatoid Arthritis,,No,1
+22,Male,Yes,Underweight,,No,,,,Yes,0
+54,Female,No,Normal,,Yes,,Hyperthyroidism,,No,1
+42,Female,No,Normal,Active,No,,,Corticosteroids,Yes,1
+19,Male,Yes,Normal,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,Yes,0
+52,Male,No,Underweight,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,No,1
+23,Female,No,Normal,Sedentary,Yes,,Hyperthyroidism,,No,0
+23,Female,No,Normal,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,0
+19,Female,No,Normal,Active,No,Moderate,,Corticosteroids,No,0
+21,Female,Yes,Underweight,Active,No,,Hyperthyroidism,Corticosteroids,Yes,1
+49,Female,Yes,Underweight,Active,No,,Hyperthyroidism,,No,1
+20,Female,No,Normal,Sedentary,Yes,Moderate,,Corticosteroids,No,0
+21,Male,No,Normal,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes,1
+85,Male,No,Normal,Active,No,,Hyperthyroidism,Corticosteroids,Yes,1
+45,Male,Yes,Underweight,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes,1
+26,Female,Yes,Normal,Active,No,Moderate,Hyperthyroidism,,No,0
+19,Female,No,Normal,Active,No,Moderate,Hyperthyroidism,,Yes,0
+43,Male,No,Normal,Active,Yes,Moderate,,Corticosteroids,No,1
+19,Male,Yes,Normal,Active,Yes,,,,Yes,0
+19,Female,No,Normal,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes,0
+21,Female,Yes,Normal,Active,No,,Hyperthyroidism,,Yes,0
+26,Male,Yes,Normal,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No,0
+38,Female,No,Underweight,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No,0
+48,Male,No,Normal,Active,No,,,,Yes,1
+25,Male,No,Normal,Active,No,Moderate,,,No,1
+34,female,No,Normal,Sedentary,yes,Moderate,Rheumatoid Arthritis,,No,0
+68,Male,No,Underweight,Active,No,Moderate,,Corticosteroids,Yes,1
+19,Male,Yes,Underweight,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes,0
+29,Female,Yes,Normal,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,0
+22,Female,Yes,Normal,Active,Yes,,,Corticosteroids,Yes,0
+80,Female,No,Underweight,Active,Yes,,Hyperthyroidism,Corticosteroids,No,1
+19,Female,Yes,Normal,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,1
+20,Female,No,Underweight,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,0
+38,Male,No,Normal,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,No,0
+38,Male,No,Normal,Active,Yes,Moderate,Hyperthyroidism,,Yes,0
+20,Female,No,Normal,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,0
+71,Male,No,Underweight,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No,1
+55,Female,Yes,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,,Yes,1
+80,Female,No,Normal,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+20,Male,No,Underweight,Active,No,Moderate,Hyperthyroidism,,No,0
+19,Female,Yes,Underweight,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,0
+72,Female,No,Normal,Active,Yes,Moderate,,Corticosteroids,Yes,1
+68,Male,No,Underweight,Sedentary,No,,,Corticosteroids,No,1
+44,Male,No,Normal,,Yes,,,Corticosteroids,Yes,1
+78,Female,No,Normal,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,No,1
+39,Male,Yes,Underweight,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes,1
+22,Male,Yes,Underweight,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No,0
+22,Female,Yes,Normal,Sedentary,No,,,,Yes,0
+22,Male,Yes,Normal,Active,Yes,,Hyperthyroidism,,Yes,0
+34,Female,Yes,Normal,Sedentary,Yes,Moderate,Hyperthyroidism,,No,0
+29,Female,Yes,Normal,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,0
+35,MALE,No,Normal,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,0
+76,Female,Yes,Underweight,Sedentary,Yes,,,Corticosteroids,Yes,1
+20,Female,Yes,Underweight,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes,0
+22,Femal,No,Underweight,Active,No,Moderate,Hyperthyroidism,Corticosteroids,Yes,0
+31,Female,No,Underweight,Sedentary,No,Moderate,,Corticosteroids,No,1
+21,Male,Yes,Normal,Active,No,Moderate,Hyperthyroidism,Corticosteroids,Yes,0
+64,male,No,Normal,Sedentary,no,,,Corticosteroids,Yes,1
+19,Male,Yes,Underweight,Sedentary,No,,Hyperthyroidism,Corticosteroids,Yes,0
+20,Male,Yes,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,0
+77,Male,No,Normal,Sedentary,No,Moderate,Hyperthyroidism,,Yes,1
+43,Male,Yes,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+21,Male,No,Normal,Active,No,Moderate,,Corticosteroids,Yes,0
+29,Male,Yes,Normal,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No,0
+26,Female,Yes,Normal,Active,Yes,,Rheumatoid Arthritis,,Yes,0
+22,Female,Yes,Normal,Sedentary,Yes,Moderate,,Corticosteroids,Yes,0
+40,Female,No,Underweight,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes,1
+21,Male,No,Normal,Active,No,,Hyperthyroidism,,No,0
+44,Male,No,Underweight,Sedentary,No,Moderate,,,Yes,1
+87,Male,No,Underweight,Sedentary,No,Moderate,,,Yes,1
+51,Female,Yes,Normal,Sedentary,No,,Hyperthyroidism,,Yes,1
+78,Female,No,Normal,Sedentary,No,Moderate,Hyperthyroidism,,Yes,1
+65,Female,No,Normal,Active,No,Moderate,Hyperthyroidism,Corticosteroids,No,1
+32,Female,No,Normal,Active,No,Moderate,,Corticosteroids,No,1
+19,Male,No,Normal,Sedentary,Yes,Moderate,,,No,0
+72,Male,No,Normal,Sedentary,Yes,,Hyperthyroidism,,Yes,1
+86,female,No,Normal,Active,yes,,Hyperthyroidism,Corticosteroids,No,1
+72,Female,No,Normal,Sedentary,No,Moderate,Hyperthyroidism,,No,1
+29,Femal,Yes,Normal,Active,No,Moderate,Rheumatoid Arthritis,,Yes,0
+38,Female,Yes,Normal,Active,No,,Hyperthyroidism,,Yes,0
+18,Male,Yes,Normal,Sedentary,No,,Hyperthyroidism,Corticosteroids,No,0
+22,Female,No,Underweight,Sedentary,No,Moderate,,,No,0
+34,Male,Yes,Normal,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,No,1
+51,Female,Yes,Underweight,Active,Yes,Moderate,Hyperthyroidism,,No,1
+18,Male,Yes,Underweight,Active,No,,,,No,0
+44,Female,Yes,Normal,Active,No,Moderate,Hyperthyroidism,,No,1
+29,Male,No,Underweight,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,No,0
+22,Male,Yes,Normal,Sedentary,No,,Hyperthyroidism,,Yes,0
+70,Male,No,Underweight,Active,Yes,,Hyperthyroidism,Corticosteroids,No,1
+56,Female,No,Underweight,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,Yes,1
+18,Male,Yes,Normal,Active,Yes,Moderate,Rheumatoid Arthritis,,Yes,0
+36,Female,Yes,Normal,Sedentary,Yes,,Hyperthyroidism,,No,1
+21,Male,Yes,Normal,Sedentary,No,Moderate,Hyperthyroidism,,No,0
+25,Female,Yes,Normal,Active,No,Moderate,Rheumatoid Arthritis,,Yes,0
+18,Male,Yes,Normal,Active,Yes,Moderate,Hyperthyroidism,,Yes,1
+34,Female,No,Normal,Active,No,,Hyperthyroidism,Corticosteroids,Yes,0
+79,Male,Yes,Underweight,Active,No,,Rheumatoid Arthritis,Corticosteroids,No,1
+53,Female,No,Underweight,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,,1
+70,Male,Yes,Normal,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,Yes,1
+26,Female,Yes,Underweight,Active,Yes,,,Corticosteroids,No,1
+62,Male,No,Underweight,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No,1
+87,Female,No,Normal,Active,No,Moderate,Hyperthyroidism,,Yes,1
+26,Female,No,Normal,Sedentary,No,,Hyperthyroidism,,No,0
+29,Female,No,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,,No,0
+76,Male,Yes,,Sedentary,No,,Rheumatoid Arthritis,,No,1
+82,Female,Yes,Normal,Active,No,Moderate,,Corticosteroids,No,1
+20,Male,No,Underweight,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,No,0
+40,Female,No,Normal,Active,Yes,Moderate,,,No,1
+19,Female,Yes,Underweight,Sedentary,Yes,Moderate,Hyperthyroidism,,Yes,0
+74,Male,Yes,Normal,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,Yes,1
+80,Male,No,Normal,Sedentary,Yes,Moderate,Hyperthyroidism,,Yes,1
+46,Female,Yes,Normal,Active,No,,,,Yes,1
+26,Female,Yes,Underweight,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes,0
+36,Male,Yes,Normal,Active,No,,,Corticosteroids,Yes,1
+51,Male,Yes,Normal,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,No,1
+18,Female,No,Underweight,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,0
+58,Male,No,Normal,Sedentary,Yes,Moderate,Hyperthyroidism,,Yes,1
+55,Female,Yes,Underweight,Sedentary,No,,,,No,1
+25,Male,Yes,Underweight,Active,No,Moderate,Rheumatoid Arthritis,,Yes,0
+29,Female,No,Underweight,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes,0
+83,Male,No,Normal,Active,Yes,Moderate,Rheumatoid Arthritis,,Yes,1
+87,Male,Yes,Underweight,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes,1
+19,Male,Yes,Underweight,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No,0
+29,Male,Yes,Normal,Active,Yes,,,Corticosteroids,Yes,0
+55,Female,Yes,Underweight,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No,1
+21,Male,No,Normal,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+35,Male,No,Normal,Active,Yes,Moderate,,Corticosteroids,No,1
+34,Female,No,Normal,Sedentary,No,Moderate,Rheumatoid Arthritis,,No,0
+22,Female,No,Underweight,Sedentary,No,,Hyperthyroidism,Corticosteroids,Yes,0
+38,Male,Yes,Underweight,Active,Yes,,,,Yes,0
+73,Male,No,Normal,Sedentary,No,Moderate,,Corticosteroids,No,1
+21,Male,No,Underweight,Active,No,,Rheumatoid Arthritis,,No,0
+38,Female,No,Underweight,Sedentary,Yes,Moderate,Hyperthyroidism,,Yes,0
+64,Male,No,Normal,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No,1
+72,Female,Yes,Underweight,Active,No,Moderate,Hyperthyroidism,Corticosteroids,Yes,1
+56,Female,No,Underweight,Sedentary,Yes,,Rheumatoid Arthritis,,Yes,1
+89,Female,No,Underweight,Active,No,,Hyperthyroidism,,Yes,1
+23,Male,No,Underweight,Sedentary,No,Moderate,,Corticosteroids,No,0
+44,Male,Yes,Underweight,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes,1
+32,Male,No,Normal,Active,Yes,,Hyperthyroidism,Corticosteroids,Yes,1
+26,Male,No,Normal,Active,No,,,Corticosteroids,No,0
+29,Female,No,Normal,Sedentary,Yes,Moderate,,Corticosteroids,,0
+79,M,No,Underweight,Active,Yes,Moderate,,Corticosteroids,No,1
+18,Male,No,Underweight,Active,No,Moderate,,Corticosteroids,No,0
+18,Female,No,Underweight,Active,Yes,Moderate,,,Yes,0
+31,Female,No,Underweight,,No,Moderate,,Corticosteroids,Yes,1
+29,Female,Yes,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,,Yes,0
+43,Female,No,Underweight,Sedentary,Yes,Moderate,Hyperthyroidism,,Yes,1
+18,Male,No,Normal,Sedentary,No,,Hyperthyroidism,,Yes,0
+25,Female,Yes,Underweight,Active,No,,,,No,0
+19,Male,Yes,Normal,Active,Yes,Moderate,,,Yes,0
+20,Male,No,Normal,Active,Yes,Moderate,,,Yes,0
+23,Female,Yes,Underweight,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes,1
+77,Male,No,Normal,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes,1
+72,Female,Yes,Normal,Sedentary,No,,,Corticosteroids,No,1
+20,Male,Yes,Normal,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No,0
+21,Male,Yes,Underweight,Active,No,,Hyperthyroidism,,Yes,0
+26,Male,Yes,Underweight,Active,Yes,,,,Yes,0
+77,Female,No,Underweight,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,Yes,1
+38,Male,No,Underweight,Active,No,,Hyperthyroidism,,Yes,1
+31,Male,No,Normal,Active,No,,Hyperthyroidism,,No,1
+26,Male,Yes,Normal,Active,No,,,Corticosteroids,Yes,1
+80,Female,Yes,Underweight,Active,Yes,,,Corticosteroids,No,1
+18,male,Yes,Normal,Active,yes,,,,No,0
+18,Female,No,Underweight,,No,Moderate,Hyperthyroidism,Corticosteroids,Yes,0
+23,Female,No,Underweight,Active,No,,Hyperthyroidism,Corticosteroids,Yes,0
+25,Male,Yes,Underweight,Active,No,Moderate,Hyperthyroidism,Corticosteroids,No,0
+89,Male,No,Normal,Active,Yes,,Hyperthyroidism,Corticosteroids,Yes,1
+29,Male,Yes,Underweight,Sedentary,Yes,Moderate,Hyperthyroidism,,Yes,0
+34,Female,Yes,Normal,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No,0
+18,Female,No,Underweight,Active,No,,Hyperthyroidism,,No,0
+25,Male,Yes,Normal,Active,No,,Rheumatoid Arthritis,Corticosteroids,No,0
+20,Female,No,Normal,Active,Yes,,Hyperthyroidism,,Yes,0
+76,Male,Yes,Normal,Active,Yes,,Rheumatoid Arthritis,,Yes,1
+19,Male,Yes,Underweight,Active,Yes,Moderate,Hyperthyroidism,,Yes,0
+20,Male,No,Underweight,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,0
+49,Female,Yes,Underweight,Active,Yes,,,Corticosteroids,Yes,1
+23,Male,No,Underweight,Active,No,Moderate,Hyperthyroidism,,No,0
+18,Male,Yes,Normal,Active,No,,Rheumatoid Arthritis,Corticosteroids,,0
+34,Female,No,Underweight,Sedentary,No,,Hyperthyroidism,,No,0
+41,Female,No,Underweight,Sedentary,Yes,Moderate,,Corticosteroids,No,1
+43,Male,Yes,Normal,Sedentary,No,,Hyperthyroidism,,No,1
+32,Female,No,Normal,Active,Yes,,Hyperthyroidism,,Yes,1
+19,Female,No,Normal,Active,Yes,,Rheumatoid Arthritis,,No,0
+19,Male,Yes,Normal,Sedentary,Yes,Moderate,,Corticosteroids,Yes,0
+19,Male,No,Normal,Active,Yes,,,,No,0
+23,Female,Yes,Normal,Sedentary,Yes,,Rheumatoid Arthritis,,No,0
+83,Female,No,Normal,Sedentary,Yes,,,Corticosteroids,No,1
+34,Male,Yes,Underweight,Sedentary,No,,Hyperthyroidism,Corticosteroids,No,1
+22,Male,No,Normal,Sedentary,No,,Hyperthyroidism,,No,0
+29,Male,No,Underweight,Active,Yes,,,,No,0
+57,Male,No,Underweight,Active,No,Moderate,Hyperthyroidism,Corticosteroids,Yes,1
+78,Female,No,Normal,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,,1
+68,Female,Yes,Underweight,Sedentary,No,Moderate,,,No,1
+29,Female,No,Underweight,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,No,0
+18,Male,Yes,Normal,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,Yes,0
+25,Male,No,Normal,Sedentary,Yes,,,Corticosteroids,No,0
+38,Female,Yes,Underweight,Sedentary,Yes,Moderate,Hyperthyroidism,,No,0
+55,Male,No,Underweight,Sedentary,No,Moderate,Hyperthyroidism,,Yes,1
+21,Male,No,Normal,Active,Yes,,Rheumatoid Arthritis,,No,1
+72,Female,No,Underweight,Active,No,,Hyperthyroidism,Corticosteroids,No,1
+23,Female,No,Normal,Sedentary,Yes,Moderate,,,Yes,0
+19,Female,No,Underweight,Sedentary,No,Moderate,Hyperthyroidism,,Yes,0
+70,Male,No,Underweight,Sedentary,No,,Hyperthyroidism,,Yes,1
+60,Female,No,Underweight,Active,No,Moderate,Hyperthyroidism,Corticosteroids,No,1
+84,Male,Yes,Underweight,Sedentary,No,Moderate,,,No,1
+26,,Yes,Normal,Active,No,Moderate,Rheumatoid Arthritis,,No,0
+46,Female,Yes,Underweight,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,1
+80,Male,Yes,Underweight,Active,Yes,Moderate,Hyperthyroidism,,No,1
+81,Male,Yes,Normal,Sedentary,No,,,,No,1
+84,Male,Yes,Normal,Sedentary,Yes,,Rheumatoid Arthritis,,No,1
+68,Male,Yes,Underweight,Sedentary,No,,,,Yes,1
+49,Female,No,Underweight,Active,Yes,Moderate,,Corticosteroids,Yes,1
+22,Female,No,Underweight,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+61,Male,Yes,Normal,Active,Yes,Moderate,,,No,1
+18,Female,Yes,Underweight,Active,Yes,Moderate,,Corticosteroids,No,0
+23,Male,No,Normal,Active,No,,Hyperthyroidism,Corticosteroids,No,0
+34,Male,Yes,Normal,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,Yes,0
+60,Male,Yes,Underweight,Sedentary,Yes,,Hyperthyroidism,,No,1
+50,male,Yes,Normal,Sedentary,yes,Moderate,Hyperthyroidism,,Yes,1
+38,Male,No,Underweight,Sedentary,Yes,,,Corticosteroids,No,0
+26,Female,No,Underweight,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,No,0
+38,Male,Yes,Normal,Active,Yes,,Rheumatoid Arthritis,,Yes,1
+35,Male,Yes,Normal,Sedentary,No,Moderate,Hyperthyroidism,,Yes,0
+22,Female,Yes,Underweight,Active,Yes,,Hyperthyroidism,,Yes,0
+78,Male,No,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+19,Female,Yes,Underweight,Sedentary,No,,Hyperthyroidism,Corticosteroids,No,0
+21,Female,Yes,Underweight,Sedentary,No,Moderate,,,Yes,0
+29,Female,Yes,Normal,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No,1
+22,Male,No,Normal,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes,0
+19,Female,No,Underweight,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,No,0
+24,Female,No,Normal,Sedentary,No,Moderate,,,No,1
+29,Female,No,Normal,Sedentary,Yes,,Hyperthyroidism,,No,0
+43,Female,Yes,Underweight,,No,,Hyperthyroidism,Corticosteroids,Yes,1
+26,Male,No,Underweight,Active,Yes,,Hyperthyroidism,Corticosteroids,No,0
+19,Female,Yes,Normal,Sedentary,No,Moderate,Hyperthyroidism,,No,0
+62,Male,Yes,Normal,Sedentary,No,,Hyperthyroidism,Corticosteroids,No,1
+68,Male,Yes,Underweight,Sedentary,No,Moderate,Rheumatoid Arthritis,,No,1
+29,Female,No,Normal,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No,0
+38,Male,No,Normal,Sedentary,No,Moderate,,Corticosteroids,Yes,0
+22,Female,No,Normal,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,Yes,1
+53,Female,No,Underweight,Active,Yes,,,,Yes,1
+21,Female,No,Normal,Sedentary,No,Moderate,,Corticosteroids,Yes,0
+76,Male,Yes,Normal,Active,Yes,Moderate,Rheumatoid Arthritis,,No,1
+68,Male,No,Normal,Sedentary,Yes,Moderate,Hyperthyroidism,,Yes,1
+29,Male,Yes,Normal,Sedentary,No,Moderate,,,No,0
+34,Female,No,Normal,Active,No,,,Corticosteroids,Yes,0
+22,Female,No,Normal,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes,0
+59,Female,No,Normal,Sedentary,Yes,Moderate,,,No,1
+18,Female,Yes,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+73,Male,No,Normal,Sedentary,Yes,,Rheumatoid Arthritis,,Yes,1
+19,Female,No,Normal,Sedentary,No,,,,Yes,1
+89,Femal,Yes,Normal,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes,1
+83,Female,No,Normal,Sedentary,No,Moderate,Rheumatoid Arthritis,,No,1
+66,male,Yes,Normal,Sedentary,no,,,,Yes,1
+43,Male,Yes,Normal,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+90,Female,Yes,Underweight,Sedentary,Yes,Moderate,Hyperthyroidism,,No,1
+28,Male,No,Underweight,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,No,1
+32,Male,No,Underweight,Active,No,,Hyperthyroidism,Corticosteroids,Yes,1
+34,Male,Yes,Underweight,Active,No,,,,Yes,0
+78,Male,Yes,Underweight,Sedentary,No,,,Corticosteroids,Yes,1
+26,Male,No,Normal,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,1
+31,Male,Yes,Normal,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No,1
+61,Male,No,Normal,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,Yes,1
+19,female,No,Normal,Sedentary,yes,,,,Yes,0
+18,Male,No,Normal,Sedentary,No,Moderate,,,No,0
+19,Male,Yes,Underweight,Active,No,Moderate,Hyperthyroidism,,No,0
+84,Female,Yes,Normal,Active,Yes,,Rheumatoid Arthritis,,No,1
+34,Female,No,Underweight,Active,Yes,,,Corticosteroids,Yes,0
+38,Female,No,Normal,Active,No,Moderate,,,No,0
+80,female,No,Underweight,Sedentary,no,Moderate,Hyperthyroidism,,Yes,1
+35,Femal,No,Normal,Sedentary,Yes,Moderate,,,No,0
+46,Female,No,Underweight,Sedentary,Yes,,Hyperthyroidism,,No,1
+69,Female,No,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No,1
+49,Female,No,Normal,Sedentary,No,Moderate,Hyperthyroidism,,,1
+85,Female,No,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+34,Male,Yes,Normal,Active,Yes,,Hyperthyroidism,Corticosteroids,Yes,0
+55,Female,No,Normal,Active,No,Moderate,,Corticosteroids,Yes,1
+53,Female,No,Normal,Active,No,,Hyperthyroidism,Corticosteroids,Yes,1
+21,Female,Yes,Underweight,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,Yes,0
+42,Female,Yes,Normal,Sedentary,Yes,,,,No,1
+18,Female,Yes,Normal,Sedentary,No,,,,Yes,0
+75,Male,No,Normal,Sedentary,No,,Hyperthyroidism,,No,1
+83,Male,No,Underweight,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+21,Female,No,Underweight,Sedentary,Yes,,,,No,0
+22,Female,No,Normal,Active,Yes,Moderate,Hyperthyroidism,,Yes,0
+21,Male,Yes,Underweight,Active,Yes,,Rheumatoid Arthritis,,Yes,0
+42,Female,No,Normal,Sedentary,Yes,,,Corticosteroids,Yes,1
+20,Male,No,Normal,Active,No,,Rheumatoid Arthritis,,No,0
+20,Female,No,Underweight,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes,0
+76,Female,No,Underweight,Sedentary,No,Moderate,,Corticosteroids,No,1
+25,Female,Yes,Normal,Active,No,Moderate,Rheumatoid Arthritis,,Yes,0
+18,Male,No,Normal,Active,No,,Hyperthyroidism,Corticosteroids,Yes,0
+34,Female,Yes,Normal,Active,Yes,Moderate,,Corticosteroids,No,0
+29,Female,No,Normal,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes,0
+56,Male,Yes,Underweight,Sedentary,No,,Hyperthyroidism,,Yes,1
+41,Male,No,Normal,Active,No,,Rheumatoid Arthritis,,Yes,1
+65,Female,No,Underweight,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+62,Female,Yes,Underweight,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+19,Male,No,Underweight,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes,0
+20,Male,Yes,Normal,Active,No,,,Corticosteroids,Yes,0
+25,Male,Yes,Normal,Active,Yes,,Rheumatoid Arthritis,,No,0
+25,Male,Yes,Normal,Active,Yes,,Rheumatoid Arthritis,,No,0
+42,Male,Yes,Underweight,Sedentary,No,Moderate,,,Yes,1
+19,Male,No,Underweight,Active,No,Moderate,,Corticosteroids,Yes,0
+20,Female,Yes,Normal,Active,No,,,Corticosteroids,Yes,0
+26,MALE,No,Underweight,Sedentary,Yes,Moderate,,Corticosteroids,Yes,1
+69,Male,Yes,Normal,Sedentary,No,,,Corticosteroids,Yes,1
+18,Male,No,Normal,Sedentary,Yes,Moderate,,,Yes,0
+21,Male,No,Underweight,Active,Yes,,Hyperthyroidism,Corticosteroids,No,0
+50,Female,No,Underweight,Active,Yes,Moderate,Hyperthyroidism,,No,1
+23,Male,Yes,Normal,Sedentary,Yes,Moderate,,,Yes,0
+22,Female,No,Normal,Active,No,,Hyperthyroidism,,No,0
+34,Female,No,Underweight,Active,No,,,,Yes,0
+89,Female,Yes,Underweight,Sedentary,Yes,Moderate,,,No,1
+21,Female,Yes,Underweight,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,0
+49,Female,No,Normal,Sedentary,No,Moderate,Rheumatoid Arthritis,,Yes,1
+34,Female,No,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,,Yes,0
+34,Male,No,Underweight,Sedentary,No,,Rheumatoid Arthritis,,Yes,0
+22,Female,No,Normal,Sedentary,No,,Rheumatoid Arthritis,,Yes,0
+26,Female,No,Normal,,No,,,,No,0
+73,Male,No,Underweight,Sedentary,No,Moderate,Rheumatoid Arthritis,,Yes,1
+29,Female,Yes,Normal,Active,Yes,,Rheumatoid Arthritis,,Yes,0
+84,Female,Yes,Normal,Sedentary,Yes,Moderate,,,No,1
+26,Male,No,Underweight,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No,1
+20,Male,No,Normal,Active,No,,Rheumatoid Arthritis,Corticosteroids,No,0
+41,Female,No,Underweight,Sedentary,Yes,Moderate,,,Yes,1
+64,Female,Yes,Normal,Sedentary,Yes,,,,No,1
+38,Female,Yes,Normal,Active,No,,Rheumatoid Arthritis,,Yes,0
+66,Male,Yes,Normal,Sedentary,No,Moderate,Hyperthyroidism,,Yes,1
+19,Male,No,Underweight,Sedentary,No,Moderate,,Corticosteroids,No,0
+29,Male,No,Underweight,Sedentary,Yes,Moderate,,Corticosteroids,,0
+42,female,No,Normal,Active,no,,Rheumatoid Arthritis,Corticosteroids,No,1
+35,Male,No,Normal,Sedentary,No,Moderate,Rheumatoid Arthritis,,Yes,1
+23,Female,Yes,Normal,Active,No,Moderate,Hyperthyroidism,Corticosteroids,Yes,1
+21,Male,No,Normal,Active,No,,Rheumatoid Arthritis,,Yes,0
+19,Female,No,Underweight,Active,No,Moderate,,,Yes,0
+70,Female,No,Normal,Sedentary,Yes,,Hyperthyroidism,,No,1
+29,Male,No,Underweight,Active,No,,,,Yes,0
+18,female,No,Normal,Active,no,Moderate,,,Yes,0
+25,Female,Yes,Underweight,Sedentary,Yes,,,,No,1
+22,Female,Yes,Underweight,Active,No,Moderate,,Corticosteroids,Yes,0
+34,Female,No,Normal,Active,Yes,Moderate,,,No,1
+18,Female,No,Underweight,Sedentary,No,Moderate,Hyperthyroidism,,No,0
+26,Female,No,Normal,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,0
+34,M,No,Underweight,Active,Yes,,,,Yes,0
+19,Female,No,Underweight,Active,Yes,Moderate,,,No,0
+18,Male,Yes,Normal,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes,0
+21,Male,Yes,Normal,Sedentary,No,Moderate,Rheumatoid Arthritis,,No,0
+35,Female,No,Underweight,Active,No,Moderate,,Corticosteroids,No,0
+19,Male,No,Normal,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,0
+18,Male,No,Underweight,Sedentary,Yes,,,,Yes,1
+19,Male,Yes,Underweight,Sedentary,No,Moderate,Hyperthyroidism,,No,1
+88,Male,No,Normal,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,Yes,1
+35,Male,No,Normal,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,Yes,0
+31,Male,Yes,Normal,Sedentary,No,,,Corticosteroids,Yes,1
+21,Female,No,Normal,Active,No,,,,Yes,0
+44,Male,No,Normal,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,,1
+72,Female,No,Normal,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+76,Female,No,Normal,Active,No,Moderate,,,Yes,1
+23,Female,No,Underweight,Sedentary,Yes,,Rheumatoid Arthritis,,Yes,0
+20,Male,Yes,Underweight,Sedentary,No,Moderate,,Corticosteroids,Yes,0
+75,Female,Yes,Normal,Active,Yes,Moderate,,Corticosteroids,Yes,1
+29,Male,Yes,Underweight,Active,Yes,,,Corticosteroids,Yes,0
+18,Male,No,Underweight,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes,0
+29,Female,No,Normal,Sedentary,Yes,,Hyperthyroidism,,No,0
+82,Female,Yes,Normal,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes,1
+20,Male,Yes,Normal,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,No,0
+29,female,Yes,Normal,Active,no,,Hyperthyroidism,Corticosteroids,Yes,0
+18,Male,No,Normal,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+34,Male,No,Normal,Active,No,Moderate,,,No,0
+29,Female,Yes,Underweight,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,0
+19,MALE,Yes,Normal,Sedentary,No,,Rheumatoid Arthritis,,Yes,1
+41,Female,No,Underweight,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,No,1
+67,Female,Yes,Normal,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,1
+18,Male,Yes,Normal,Sedentary,No,Moderate,Hyperthyroidism,,No,0
+59,Female,Yes,Underweight,Active,No,,Hyperthyroidism,,Yes,1
+35,Male,No,Underweight,Active,No,Moderate,Hyperthyroidism,Corticosteroids,Yes,0
+35,Male,Yes,Normal,Active,No,Moderate,Rheumatoid Arthritis,,Yes,0
+22,Female,No,,Active,Yes,Moderate,Hyperthyroidism,,Yes,0
+70,Male,No,Underweight,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,No,1
+20,Male,Yes,Normal,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,,0
+18,Female,Yes,Underweight,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,0
+35,Male,No,Underweight,Active,No,Moderate,Rheumatoid Arthritis,,Yes,0
+36,Female,Yes,Normal,Sedentary,No,Moderate,Rheumatoid Arthritis,,No,1
+68,Male,No,Normal,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,Yes,1
+18,Male,No,Normal,Active,Yes,,Rheumatoid Arthritis,,Yes,0
+48,Male,No,Underweight,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,No,1
+20,Male,No,Normal,Active,Yes,Moderate,,Corticosteroids,Yes,0
+28,Female,Yes,Normal,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes,1
+18,MALE,No,Normal,Active,Yes,,Hyperthyroidism,,No,0
+18,Female,No,Normal,Active,No,Moderate,Hyperthyroidism,,No,0
+55,Female,No,Normal,Active,Yes,,Hyperthyroidism,Corticosteroids,No,1
+72,Female,No,Underweight,Active,Yes,,,,No,1
+20,Female,Yes,Normal,Sedentary,Yes,Moderate,,,Yes,0
+86,Male,No,Underweight,Sedentary,Yes,Moderate,Hyperthyroidism,,No,1
+20,Female,No,Normal,Active,Yes,Moderate,Hyperthyroidism,,Yes,0
+29,Male,No,Underweight,Active,Yes,Moderate,Hyperthyroidism,,Yes,0
+19,Male,Yes,Underweight,Sedentary,No,,,Corticosteroids,Yes,0
+61,Female,Yes,Underweight,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No,1
+56,Female,No,Normal,Active,No,,Hyperthyroidism,Corticosteroids,No,1
+34,Female,No,Normal,Active,Yes,Moderate,,Corticosteroids,Yes,1
+19,Male,Yes,Normal,Active,No,,,Corticosteroids,No,0
+18,Female,No,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,,Yes,0
+25,Male,No,Underweight,Active,No,Moderate,,,No,1
+55,Female,No,Normal,Active,No,,Rheumatoid Arthritis,,,1
+22,Male,Yes,Normal,Active,Yes,Moderate,Rheumatoid Arthritis,,No,1
+22,Male,Yes,Underweight,Active,Yes,Moderate,,Corticosteroids,No,0
+22,Male,Yes,Underweight,Active,Yes,,,Corticosteroids,No,0
+26,Female,No,Underweight,Sedentary,Yes,,Hyperthyroidism,,Yes,1
+34,Male,No,Normal,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes,0
+26,Female,Yes,Normal,Active,No,Moderate,,Corticosteroids,Yes,0
+29,Female,Yes,Underweight,Active,No,Moderate,,,No,1
+78,Female,No,Underweight,Active,Yes,,Hyperthyroidism,,No,1
+19,Female,No,Normal,Active,Yes,,,Corticosteroids,No,0
+67,Male,No,Normal,Active,Yes,Moderate,Rheumatoid Arthritis,,No,1
+25,Female,Yes,Normal,Sedentary,No,,Hyperthyroidism,Corticosteroids,Yes,0
+69,Male,Yes,Normal,Sedentary,Yes,,Hyperthyroidism,,Yes,1
+26,Female,Yes,Normal,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No,0
+76,Female,Yes,Underweight,Active,Yes,Moderate,,Corticosteroids,No,1
+18,Male,Yes,Normal,Sedentary,No,,,,Yes,0
+18,Female,No,Normal,Active,No,,Rheumatoid Arthritis,,No,0
+51,Female,No,Underweight,Active,No,Moderate,,Corticosteroids,Yes,1
+87,Female,Yes,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+79,Male,No,Normal,Active,Yes,Moderate,,Corticosteroids,Yes,1
+18,Male,No,Normal,Sedentary,No,,Hyperthyroidism,Corticosteroids,No,0
+18,Male,No,Normal,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,No,0
+69,Female,No,Underweight,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes,1
+34,Male,Yes,Underweight,Active,No,Moderate,Rheumatoid Arthritis,,No,0
+89,Male,No,Normal,Sedentary,No,,,Corticosteroids,No,1
+77,Female,Yes,Normal,Active,Yes,Moderate,,Corticosteroids,No,1
+40,Female,No,Normal,Active,Yes,,Rheumatoid Arthritis,,Yes,1
+34,Male,Yes,Normal,Active,Yes,,,,Yes,0
+49,Male,Yes,Underweight,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes,1
+30,Female,No,Normal,Active,No,Moderate,Rheumatoid Arthritis,,,1
+26,Female,No,Normal,Sedentary,Yes,,,,Yes,0
+28,Male,Yes,Underweight,Active,No,,Rheumatoid Arthritis,,Yes,1
+21,Male,No,Underweight,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,0
+23,Male,Yes,Normal,Sedentary,Yes,Moderate,,,Yes,1
+34,Female,No,Underweight,Sedentary,No,,Rheumatoid Arthritis,,No,1
+18,Male,No,Normal,Active,Yes,Moderate,Hyperthyroidism,,No,0
+18,Female,Yes,Underweight,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No,0
+25,Female,Yes,Underweight,Active,Yes,Moderate,,Corticosteroids,No,0
+38,Female,No,Underweight,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,0
+26,Female,No,Underweight,Sedentary,No,Moderate,,,Yes,0
+20,Male,Yes,Normal,Sedentary,Yes,,,Corticosteroids,Yes,0
+56,Male,No,Underweight,Active,No,,,Corticosteroids,Yes,1
+19,Male,Yes,Underweight,Active,Yes,Moderate,,,Yes,0
+83,Male,Yes,Normal,Sedentary,Yes,,Hyperthyroidism,,No,1
+19,,No,Normal,Active,No,,Hyperthyroidism,Corticosteroids,No,0
+65,Female,No,Underweight,Active,No,Moderate,,Corticosteroids,No,1
+86,Female,Yes,Normal,Sedentary,Yes,,Rheumatoid Arthritis,,Yes,1
+32,Female,Yes,Underweight,Sedentary,No,,,,Yes,1
+59,Female,No,Underweight,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,Yes,1
+24,Male,Yes,Underweight,Active,No,,,Corticosteroids,No,1
+21,Female,Yes,Underweight,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,0
+66,Female,No,Underweight,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,1
+22,Male,Yes,Underweight,Sedentary,Yes,,Hyperthyroidism,,Yes,0
+21,Male,Yes,Underweight,Active,No,,Hyperthyroidism,Corticosteroids,Yes,0
+29,Female,No,Underweight,Sedentary,No,Moderate,,Corticosteroids,No,0
+18,Male,Yes,Underweight,Sedentary,No,,Rheumatoid Arthritis,,Yes,0
+20,Female,Yes,Underweight,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,No,0
+19,MALE,No,Underweight,Sedentary,No,Moderate,,Corticosteroids,No,0
+23,Male,No,Normal,Sedentary,Yes,Moderate,,Corticosteroids,No,0
+23,Male,No,Normal,Sedentary,No,Moderate,Rheumatoid Arthritis,,No,0
+79,Male,No,Normal,Active,No,,,Corticosteroids,Yes,1
+19,Male,Yes,Normal,Active,Yes,Moderate,Hyperthyroidism,,Yes,0
+19,Male,Yes,Normal,Active,Yes,Moderate,Hyperthyroidism,,Yes,0
+21,Male,No,Underweight,Active,No,Moderate,Rheumatoid Arthritis,,No,0
+29,Male,No,Underweight,Sedentary,Yes,Moderate,,Corticosteroids,No,0
+23,Male,No,Normal,Active,No,Moderate,,,Yes,0
+34,Female,Yes,Underweight,Active,Yes,,,,Yes,0
+34,Male,Yes,Normal,Active,No,Moderate,,,No,0
+38,Female,Yes,Underweight,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,1
+20,Female,No,Underweight,Active,Yes,,,,Yes,0
+18,Male,No,Normal,Active,No,,Hyperthyroidism,Corticosteroids,No,0
+34,Female,No,Underweight,Active,No,,Hyperthyroidism,,No,0
+34,Female,No,Underweight,Active,Yes,Moderate,,,No,0
+33,Female,No,Normal,Active,No,Moderate,,,No,1
+72,Male,Yes,Underweight,Active,Yes,Moderate,,,Yes,1
+29,Male,Yes,Underweight,Sedentary,Yes,Moderate,Hyperthyroidism,,Yes,0
+18,Male,Yes,Normal,Active,No,Moderate,Hyperthyroidism,Corticosteroids,No,0
+61,Female,No,Normal,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+29,Female,Yes,Underweight,Sedentary,Yes,,Rheumatoid Arthritis,,Yes,0
+21,Male,No,Underweight,Active,Yes,Moderate,Hyperthyroidism,,Yes,0
+64,Male,Yes,Underweight,Sedentary,Yes,,Hyperthyroidism,,No,1
+47,Male,Yes,Underweight,Sedentary,No,,Hyperthyroidism,,Yes,1
+47,Male,Yes,Normal,Active,No,,Rheumatoid Arthritis,,Yes,1
+22,Female,No,Normal,Sedentary,No,,Rheumatoid Arthritis,,No,0
+26,Male,No,Underweight,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes,0
+34,Female,No,Underweight,Active,Yes,,Rheumatoid Arthritis,,Yes,0
+26,Female,No,Normal,Active,Yes,Moderate,Hyperthyroidism,,No,0
+21,Male,No,Underweight,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,No,0
+18,Female,Yes,Normal,Active,No,,,Corticosteroids,Yes,0
+34,Male,Yes,Normal,Sedentary,Yes,,,Corticosteroids,Yes,0
+21,Male,No,Underweight,Active,No,Moderate,Hyperthyroidism,,Yes,0
+34,Female,No,Normal,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes,0
+18,Male,No,Underweight,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,0
+23,Male,Yes,Normal,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,No,0
+34,Female,Yes,Normal,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No,0
+18,Male,No,,Active,No,,,Corticosteroids,No,0
+29,Female,Yes,Underweight,Sedentary,No,,Hyperthyroidism,Corticosteroids,Yes,0
+18,Female,No,Underweight,Active,Yes,,Hyperthyroidism,Corticosteroids,No,0
+77,Female,No,Underweight,Sedentary,Yes,,Hyperthyroidism,,No,1
+83,Female,Yes,Normal,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,1
+38,M,No,Normal,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes,0
+19,Female,Yes,Normal,Sedentary,No,,Hyperthyroidism,Corticosteroids,Yes,0
+81,Female,Yes,Normal,Active,No,Moderate,,,No,1
+80,Male,No,Underweight,Active,No,,,Corticosteroids,Yes,1
+35,Male,No,Underweight,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+23,Male,Yes,Underweight,Active,Yes,Moderate,Hyperthyroidism,,Yes,0
+38,Male,Yes,Underweight,Active,Yes,,Hyperthyroidism,,Yes,0
+29,Male,No,Underweight,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,No,0
+22,Male,No,Normal,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes,0
+62,Male,No,Normal,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+29,Male,Yes,Underweight,Active,No,,Hyperthyroidism,Corticosteroids,Yes,0
+71,Female,Yes,Normal,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes,1
+22,Male,No,Underweight,Sedentary,Yes,Moderate,,Corticosteroids,No,0
+19,Male,Yes,Normal,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,Yes,0
+21,Female,Yes,Normal,Active,No,,Hyperthyroidism,Corticosteroids,No,1
+19,Female,Yes,Underweight,Active,No,,Rheumatoid Arthritis,,Yes,0
+18,Female,Yes,Underweight,Sedentary,Yes,,Rheumatoid Arthritis,,Yes,0
+26,male,No,Underweight,Active,no,,,,Yes,1
+22,Female,Yes,Normal,Sedentary,No,,,,No,0
+51,Female,No,Normal,Sedentary,Yes,Moderate,,,Yes,1
+25,Female,No,Underweight,Sedentary,No,,Hyperthyroidism,Corticosteroids,Yes,0
+30,Male,Yes,Underweight,Sedentary,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No,1
+23,Male,No,Normal,Sedentary,No,,Hyperthyroidism,,No,0
+48,Male,No,Underweight,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,No,1
+32,Female,Yes,Underweight,Sedentary,No,Moderate,Hyperthyroidism,,Yes,1
+19,Male,No,Underweight,Active,No,,Rheumatoid Arthritis,,Yes,0
+25,Female,No,Normal,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,No,0
+22,Female,No,Normal,Active,Yes,Moderate,,,No,0
+60,Female,Yes,Underweight,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,No,1
+35,Male,Yes,Underweight,Active,No,,Rheumatoid Arthritis,Corticosteroids,No,0
+20,Female,Yes,Underweight,Sedentary,Yes,Moderate,,,Yes,0
+48,Male,No,,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,1
+36,Female,Yes,Underweight,Sedentary,No,Moderate,Rheumatoid Arthritis,,,1
+79,Male,No,Underweight,Active,Yes,,Rheumatoid Arthritis,,No,1
+62,Female,Yes,Normal,Sedentary,Yes,Moderate,Hyperthyroidism,,No,1
+33,Male,Yes,Normal,Sedentary,No,Moderate,Rheumatoid Arthritis,,Yes,1
+64,Male,Yes,Normal,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes,1
+21,Male,No,Underweight,Sedentary,Yes,,,,No,0
+21,Male,Yes,Underweight,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,0
+26,male,No,Normal,Active,no,,,,No,0
+51,Male,Yes,Normal,Active,No,Moderate,,Corticosteroids,No,1
+29,Female,Yes,Normal,Sedentary,Yes,,Rheumatoid Arthritis,,No,0
+29,Male,No,Normal,Active,No,,Hyperthyroidism,,Yes,1
+21,Female,No,Normal,Active,No,,Hyperthyroidism,,No,0
+79,Female,Yes,Normal,Active,Yes,,Hyperthyroidism,,No,1
+21,Male,Yes,Underweight,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,Yes,0
+81,Female,No,Normal,Sedentary,No,Moderate,,,No,1
+78,Male,Yes,Normal,Active,No,Moderate,Hyperthyroidism,,Yes,1
+40,Female,Yes,Underweight,Active,No,Moderate,Hyperthyroidism,,Yes,1
+77,Femal,No,Underweight,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes,1
+26,Male,Yes,Normal,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No,0
+19,Male,Yes,Normal,Active,No,Moderate,,,Yes,0
+50,Male,Yes,Underweight,Sedentary,No,Moderate,Hyperthyroidism,,No,1
+71,Male,Yes,Underweight,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,No,1
+34,Female,Yes,Normal,Active,Yes,,Rheumatoid Arthritis,,Yes,0
+18,Male,Yes,Underweight,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,No,0
+19,Female,No,Underweight,Sedentary,No,,,Corticosteroids,Yes,1
+27,Female,No,Underweight,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,Yes,1
+56,Male,No,Underweight,Sedentary,No,Moderate,Rheumatoid Arthritis,,No,1
+45,Female,Yes,Normal,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes,1
+20,Female,No,Underweight,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,No,0
+31,Male,Yes,Underweight,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,,1
+25,Female,Yes,Normal,Active,Yes,,Hyperthyroidism,Corticosteroids,Yes,0
+35,Male,Yes,Normal,Active,No,Moderate,Rheumatoid Arthritis,,Yes,1
+22,Female,No,Normal,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes,0
+19,Male,No,Normal,Sedentary,No,,Hyperthyroidism,,No,0
+86,Female,No,Underweight,Sedentary,Yes,Moderate,,Corticosteroids,No,1
+84,Male,Yes,Normal,Active,No,,,Corticosteroids,No,1
+30,Male,No,Normal,Active,Yes,,Hyperthyroidism,Corticosteroids,No,1
+23,Male,No,Normal,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,0
+27,Female,No,Normal,Active,Yes,,Hyperthyroidism,Corticosteroids,No,1
+40,Male,Yes,Normal,,No,,Rheumatoid Arthritis,,Yes,1
+18,Female,Yes,Underweight,Sedentary,No,Moderate,Hyperthyroidism,,No,0
+22,Male,Yes,Normal,Active,No,,Hyperthyroidism,,Yes,0
+23,Female,Yes,Normal,Sedentary,No,,Hyperthyroidism,,Yes,0
+18,Female,No,Normal,Sedentary,No,Moderate,,Corticosteroids,No,0
+40,Male,No,Normal,Active,No,,Hyperthyroidism,Corticosteroids,No,1
+19,Female,No,Underweight,Active,No,,Rheumatoid Arthritis,,No,0
+29,Female,No,Underweight,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes,0
+55,Male,Yes,Underweight,Sedentary,Yes,Moderate,Hyperthyroidism,,No,1
+65,Female,Yes,Normal,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes,1
+77,Male,Yes,Underweight,Sedentary,Yes,,Hyperthyroidism,,No,1
+20,Female,Yes,Normal,Active,No,Moderate,Rheumatoid Arthritis,,No,0
+26,Male,Yes,Normal,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,Yes,0
+25,Male,No,Normal,Sedentary,Yes,,,,No,1
+64,Female,No,Underweight,Active,Yes,,Hyperthyroidism,Corticosteroids,No,1
+87,Male,Yes,Underweight,Active,Yes,Moderate,Hyperthyroidism,,No,1
+36,Male,Yes,Underweight,Active,No,Moderate,,,No,1
+49,Male,No,Underweight,Sedentary,Yes,Moderate,Hyperthyroidism,,No,1
+52,Female,Yes,Normal,Sedentary,No,,Hyperthyroidism,,Yes,1
+34,Female,Yes,Underweight,Sedentary,Yes,,Hyperthyroidism,,Yes,0
+86,Male,Yes,Normal,Active,No,,Hyperthyroidism,,No,1
+77,Female,No,Normal,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes,1
+34,Male,No,Normal,Active,Yes,Moderate,Rheumatoid Arthritis,,No,0
+57,Male,Yes,Underweight,Sedentary,Yes,,,Corticosteroids,Yes,1
+29,Female,Yes,Underweight,Sedentary,Yes,Moderate,,Corticosteroids,No,0
+44,Female,No,Normal,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes,1
+25,Male,Yes,Normal,Sedentary,Yes,,,Corticosteroids,Yes,0
+26,Female,No,Normal,Active,No,Moderate,Rheumatoid Arthritis,,Yes,0
+20,Male,Yes,Underweight,,No,Moderate,,,Yes,0
+20,M,No,Normal,Active,Yes,,Rheumatoid Arthritis,,No,0
+20,Female,Yes,Normal,Active,No,,,Corticosteroids,Yes,0
+36,Male,Yes,Underweight,Sedentary,Yes,Moderate,,,Yes,1
+23,Female,Yes,Underweight,Active,No,,,Corticosteroids,No,0
+21,Male,No,Normal,Active,Yes,,,Corticosteroids,Yes,1
+66,Male,No,Underweight,Active,No,Moderate,Hyperthyroidism,,Yes,1
+35,Female,Yes,Underweight,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,0
+18,Female,Yes,Normal,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes,1
+20,Male,Yes,Underweight,Sedentary,No,Moderate,,Corticosteroids,No,1
+20,Male,No,Underweight,Active,No,,,Corticosteroids,Yes,0
+87,Female,Yes,Normal,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No,1
+41,Female,No,Underweight,Active,No,Moderate,Hyperthyroidism,,Yes,1
+55,Male,Yes,Normal,Active,No,Moderate,Hyperthyroidism,,No,1
+22,Female,Yes,Underweight,Sedentary,Yes,,,Corticosteroids,No,0
+22,Female,No,Underweight,Sedentary,Yes,,,,No,0
+23,Female,Yes,Underweight,Active,Yes,Moderate,,Corticosteroids,Yes,0
+29,Male,Yes,Underweight,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,,0
+52,Male,No,Normal,Active,No,,Hyperthyroidism,Corticosteroids,Yes,1
+20,Female,No,Normal,Active,Yes,,Hyperthyroidism,Corticosteroids,No,0
+18,Female,No,Normal,,Yes,,Hyperthyroidism,,Yes,0
+19,Female,Yes,Normal,Sedentary,No,,Hyperthyroidism,Corticosteroids,Yes,0
+19,Female,Yes,Underweight,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,No,0
+22,Male,Yes,Normal,Active,Yes,,Hyperthyroidism,,Yes,0
+18,Male,No,Normal,Active,Yes,,Hyperthyroidism,Corticosteroids,No,0
+40,Male,Yes,Underweight,Active,No,Moderate,,,No,1
+38,Male,No,Underweight,Sedentary,Yes,,,Corticosteroids,Yes,1
+67,Male,No,Normal,,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No,1
+30,Male,No,Underweight,Sedentary,Yes,Moderate,,Corticosteroids,No,1
+25,Male,No,Underweight,Sedentary,No,,Hyperthyroidism,,No,0
+19,Female,No,Normal,Active,No,,Hyperthyroidism,Corticosteroids,No,0
+29,Male,Yes,Underweight,Sedentary,No,Moderate,,,Yes,0
+19,Male,No,Underweight,Sedentary,No,Moderate,Rheumatoid Arthritis,,No,0
+24,Male,No,Normal,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,1
+18,Female,No,Normal,Sedentary,No,,Rheumatoid Arthritis,,Yes,0
+26,Female,Yes,Underweight,Sedentary,Yes,,Hyperthyroidism,Corticosteroids,No,1
+63,Female,Yes,Underweight,Sedentary,No,Moderate,,,Yes,1
+20,Male,No,Normal,Sedentary,Yes,Moderate,,,Yes,0
+27,Female,Yes,Normal,Active,No,Moderate,,,Yes,1
+65,Femal,Yes,Underweight,Sedentary,Yes,Moderate,,,No,1
+81,Male,Yes,Underweight,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,No,1
+82,Male,Yes,Normal,Active,No,,,,Yes,1
+21,Female,Yes,Underweight,Active,No,Moderate,Hyperthyroidism,Corticosteroids,Yes,1
+27,Male,Yes,Underweight,Sedentary,No,Moderate,Rheumatoid Arthritis,,No,1
+35,Male,No,Normal,Active,Yes,,,,Yes,0
+71,,Yes,Normal,Active,No,Moderate,Hyperthyroidism,,No,1
+59,Male,No,Normal,Sedentary,Yes,Moderate,Hyperthyroidism,,Yes,1
+76,Male,Yes,Normal,Sedentary,Yes,Moderate,,Corticosteroids,No,1
+60,Female,No,Underweight,Sedentary,No,,,Corticosteroids,Yes,1
+20,Male,No,Normal,Active,No,Moderate,Rheumatoid Arthritis,,No,0
+18,Male,No,Normal,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,No,0
+34,Male,No,,Active,No,,Rheumatoid Arthritis,Corticosteroids,Yes,0
+19,Male,Yes,Underweight,Sedentary,No,Moderate,Hyperthyroidism,,No,0
+68,Female,No,Normal,Active,No,Moderate,Rheumatoid Arthritis,Corticosteroids,No,1
+18,Male,No,Underweight,Active,Yes,,Rheumatoid Arthritis,,Yes,0
+29,Male,No,Normal,Active,Yes,Moderate,Rheumatoid Arthritis,,No,0
+29,Male,No,Underweight,Sedentary,Yes,,,,No,0
+46,M,Yes,Underweight,Active,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes,1
+34,Female,Yes,Normal,Sedentary,Yes,Moderate,,,No,0
+18,Female,No,Normal,Active,No,,Hyperthyroidism,,Yes,1
+30,Female,No,Underweight,Sedentary,No,Moderate,,Corticosteroids,No,1
+37,Female,No,Underweight,Active,Yes,Moderate,,Corticosteroids,No,1
+34,Female,Yes,Normal,Active,Yes,Moderate,Rheumatoid Arthritis,,Yes,0
+68,Male,No,Underweight,Active,Yes,Moderate,Hyperthyroidism,,No,1
+20,Female,No,Normal,Active,No,,,Corticosteroids,Yes,1
+29,Male,No,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,,0
+38,Male,Yes,Normal,Active,No,,Rheumatoid Arthritis,,No,0
+37,Female,No,Underweight,Active,No,,,Corticosteroids,Yes,1
+22,Male,Yes,Underweight,Sedentary,No,,,Corticosteroids,No,0
+22,Male,Yes,Normal,Active,Yes,Moderate,,Corticosteroids,No,1
+18,Male,Yes,Normal,Active,Yes,Moderate,Rheumatoid Arthritis,,No,0
+22,Male,Yes,Underweight,Active,No,Moderate,Hyperthyroidism,Corticosteroids,Yes,1
+83,Male,Yes,Normal,Active,No,Moderate,,,Yes,1
+55,Female,No,Normal,Active,No,Moderate,Rheumatoid Arthritis,,Yes,1
+59,Female,Yes,Normal,Active,No,,,Corticosteroids,No,1
+22,Female,Yes,Normal,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,0
+69,Male,Yes,Underweight,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,No,1
+35,Male,Yes,Normal,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes,0
+41,Male,No,Underweight,Sedentary,No,,Hyperthyroidism,Corticosteroids,Yes,1
+66,Female,Yes,Underweight,Active,No,Moderate,,Corticosteroids,Yes,1
+35,Female,Yes,Underweight,Sedentary,No,,Hyperthyroidism,,No,0
+50,Male,Yes,Underweight,Sedentary,No,,,Corticosteroids,Yes,1
+81,Male,No,Underweight,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,No,1
+25,Male,No,Normal,Sedentary,No,,Rheumatoid Arthritis,,Yes,0
+18,Male,No,Normal,Active,Yes,,Hyperthyroidism,,Yes,0
+23,Male,No,Normal,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,No,1
+81,Male,No,Normal,Active,No,,Rheumatoid Arthritis,,No,1
+22,Male,No,Normal,Sedentary,Yes,Moderate,,,Yes,0
+22,Male,No,Underweight,Active,Yes,Moderate,Rheumatoid Arthritis,,Yes,0
+79,Female,Yes,Normal,Sedentary,No,Moderate,,,No,1
+19,Male,No,Normal,Active,Yes,,Rheumatoid Arthritis,Corticosteroids,Yes,0
+19,Female,Yes,Normal,Sedentary,No,,Hyperthyroidism,,Yes,1
+35,Female,Yes,Normal,Sedentary,Yes,,,Corticosteroids,Yes,0
+22,Female,Yes,Underweight,Sedentary,No,,Hyperthyroidism,Corticosteroids,Yes,0
+50,Female,No,Underweight,Sedentary,Yes,,Rheumatoid Arthritis,,No,1
+18,Female,No,Normal,Active,Yes,,,Corticosteroids,No,0
+75,Male,No,Underweight,Sedentary,Yes,Moderate,Rheumatoid Arthritis,Corticosteroids,Yes,1
+18,Femal,No,Normal,Active,No,Moderate,,,Yes,0
+33,Female,No,Underweight,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes,1
+53,Male,Yes,Normal,Sedentary,No,,,Corticosteroids,No,1
+21,Female,No,Normal,Active,No,,Hyperthyroidism,Corticosteroids,Yes,0
+21,Male,No,Underweight,Sedentary,Yes,Moderate,,Corticosteroids,Yes,0
+35,,No,Underweight,Active,Yes,Moderate,,Corticosteroids,Yes,0
+20,Female,No,Normal,Sedentary,Yes,Moderate,Rheumatoid Arthritis,,Yes,0
+21,Female,No,Normal,Active,Yes,,,,No,0
+19,Male,No,Underweight,Sedentary,Yes,,Hyperthyroidism,,No,0
+64,Male,Yes,Normal,Sedentary,Yes,,Rheumatoid Arthritis,Corticosteroids,No,1
+23,Male,No,Normal,Sedentary,No,,Rheumatoid Arthritis,Corticosteroids,Yes,0
+21,Female,No,Underweight,Active,Yes,Moderate,Hyperthyroidism,,Yes,0
